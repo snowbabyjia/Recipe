@@ -1,0 +1,6 @@
+recipe_name soup
+ingredient water
+weight 10
+req True
+rating 5
+url lorem.ipsum

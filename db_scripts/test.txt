@@ -1,0 +1,17 @@
+# recipe_name ingredient weight req rating url
+soup | clean water | 10 | True | 5 | lorem.ipsum
+soup | cabbage | 6 | True | 5 | lorem.ipsum
+soup | onions | 5 |  False | 5 | lorem.ipsum
+Stringy Macaroni | Macaroni | 10 | True | 4.5 | http://allrecipes.com/Recipe/Stringy-Macaroni/Detail.aspx 
+Stringy Macaroni | Mayonnaise | 5 | False | 4.5 | http://allrecipes.com/Recipe/Stringy-Macaroni/Detail.aspx 
+Stringy Macaroni | Vineger | 6 | True | 4.5 | http://allrecipes.com/Recipe/Stringy-Macaroni/Detail.aspx 
+Stringy Macaroni | Sugar| 7 | True | 4.5 | http://allrecipes.com/Recipe/Stringy-Macaroni/Detail.aspx 
+Stringy Macaroni | Onion | 10 | True | 4.5 | http://allrecipes.com/Recipe/Stringy-Macaroni/Detail.aspx 
+Stringy Macaroni | Celery | 3 | False | 4.5 | http://allrecipes.com/Recipe/Stringy-Macaroni/Detail.aspx 
+Pizza | Flour | 10  | True  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+Pizza | Yeast | 5  | True  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+Pizza | Tomato Sauce | 10  | True  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+Pizza | Mozerella | 10  | True  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+Pizza | Onions | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+Pizza | Peppers | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+Pizza | Basil | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/

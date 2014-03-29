@@ -1,0 +1,6 @@
+from pymongo import MongoClient
+
+client = MongoClient()
+db = client.recipes
+
+db.posts.find_one()
