@@ -1,0 +1,777 @@
+ Easy Lasagna II| ground beef | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Lasagna II| spaghetti sauce | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Lasagna II| cottage | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Lasagna II| mozzarella cheese | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Lasagna II| eggs | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Lasagna II| Parmesan cheese | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Lasagna II| parsley | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Lasagna II| ground pepper | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Lasagna II| lasagna noodles | 1 | True | 4.612457 | http://allrecipes.com/Recipe/Easy-Lasagna-II/
+ Easy Roasted Vegetable Lasagna| oil spray | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| zucchini | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| bell peppers in pieces | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| mushrooms | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| onion into wedges | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| basil | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| ground pepper | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| lasagna noodles | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| pasta sauce | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| mozzarella cheese | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Easy Roasted Vegetable Lasagna| Parmesan cheese | 1 | True | 5 | http://allrecipes.com/Recipe/Easy-Roasted-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| lasagna noodles | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| mushrooms | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| bell pepper | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| onion | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| pasta sauce | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| basil | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| ricotta cheese | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| mozzarella cheese | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| eggs | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ Hearty Vegetable Lasagna| Parmesan cheese | 1 | True | 4.659824 | http://allrecipes.com/Recipe/Hearty-Vegetable-Lasagna
+ American Lasagna| ground beef | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| onion | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| basil | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| brown sugar | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| tomato paste | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| lasagna noodles | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| eggs | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| ricotta cheese | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| Parmesan cheese | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| parsley | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| mozzarella | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ American Lasagna| Parmesan cheese | 1 | True | 4.67378 | http://allrecipes.com/Recipe/American-Lasagna
+ World's Best Lasagna| sweet sausage | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| ground beef | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| onion | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| tomato paste | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| sauce | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| white sugar | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| basil leaves | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| fennel seeds | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| seasoning | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| ground pepper | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| parsley | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| lasagna noodles | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| ricotta | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| egg | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| mozzarella | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ World's Best Lasagna| Parmesan cheese | 1 | True | 4.781463 | http://allrecipes.com/Recipe/Worlds-Best-Lasagna
+ Tomato Chicken Parmesan| eggs | 1 | True | 4.649615 | http://allrecipes.com/Recipe/Tomato-Chicken-Parmesan
+ Tomato Chicken Parmesan| Parmesan cheese | 1 | True | 4.649615 | http://allrecipes.com/Recipe/Tomato-Chicken-Parmesan
+ Tomato Chicken Parmesan| crumbs | 1 | True | 4.649615 | http://allrecipes.com/Recipe/Tomato-Chicken-Parmesan
+ Tomato Chicken Parmesan| skinless boneless breast halves | 1 | True | 4.649615 | http://allrecipes.com/Recipe/Tomato-Chicken-Parmesan
+ Tomato Chicken Parmesan| pasta sauce | 1 | True | 4.649615 | http://allrecipes.com/Recipe/Tomato-Chicken-Parmesan
+ Tomato Chicken Parmesan| Monterey Jack cheese | 1 | True | 4.649615 | http://allrecipes.com/Recipe/Tomato-Chicken-Parmesan
+ Chicken Pot Pie IX| skinless boneless breast halves | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| carrots | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| peas | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| celery | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| butter | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| onion | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| black pepper | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| celery | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| chicken broth | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| milk | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Chicken Pot Pie IX| pie crusts | 1 | True | 4.807745 | http://allrecipes.com/Recipe/Chicken-Pot-Pie-IX
+ Slow-Cooker Chicken Tortilla Soup| chicken | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| whole | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| enchilada sauce | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| onion | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| chile peppers | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| chicken broth | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| cumin | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| chili powder | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| black pepper | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| bay leaf | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| corn | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Slow-Cooker Chicken Tortilla Soup| corn | 1 | True | 4.666898 | http://allrecipes.com/Recipe/Slow-Cooker-Chicken-Tortilla-Soup
+ Chicken With Mushrooms| mushrooms | 1 | True | 4.446644 | http://allrecipes.com/Recipe/Chicken-With-Mushrooms
+ Chicken With Mushrooms| skinless boneless breast halves | 1 | True | 4.446644 | http://allrecipes.com/Recipe/Chicken-With-Mushrooms
+ Chicken With Mushrooms| eggs | 1 | True | 4.446644 | http://allrecipes.com/Recipe/Chicken-With-Mushrooms
+ Chicken With Mushrooms| crumbs | 1 | True | 4.446644 | http://allrecipes.com/Recipe/Chicken-With-Mushrooms
+ Chicken With Mushrooms| butter | 1 | True | 4.446644 | http://allrecipes.com/Recipe/Chicken-With-Mushrooms
+ Chicken With Mushrooms| mozzarella | 1 | True | 4.446644 | http://allrecipes.com/Recipe/Chicken-With-Mushrooms
+ Chicken With Mushrooms| chicken broth | 1 | True | 4.446644 | http://allrecipes.com/Recipe/Chicken-With-Mushrooms
+ Lemon Chicken Piccata| skinless boneless breast halves into | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Lemon Chicken Piccata| salt pepper | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Lemon Chicken Piccata| oil as | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Lemon Chicken Piccata| sodium chicken broth | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Lemon Chicken Piccata| lemon | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Lemon Chicken Piccata| lemon juice | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Lemon Chicken Piccata| capers | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Lemon Chicken Piccata| butter | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Lemon Chicken Piccata| ( flat-leaf parsley | 1 | True | 4.388889 | http://allrecipes.com/Recipe/Lemon-Chicken-Piccata
+ Roasted Chicken with Lemon and Rosemary| chicken into pieces | 1 | True | 5 | http://allrecipes.com/Recipe/Roasted-Chicken-with-Lemon-and-Rosemary
+ Roasted Chicken with Lemon and Rosemary| onion into wedges | 1 | True | 5 | http://allrecipes.com/Recipe/Roasted-Chicken-with-Lemon-and-Rosemary
+ Roasted Chicken with Lemon and Rosemary| lemon | 1 | True | 5 | http://allrecipes.com/Recipe/Roasted-Chicken-with-Lemon-and-Rosemary
+ Roasted Chicken with Lemon and Rosemary| ground pepper | 1 | True | 5 | http://allrecipes.com/Recipe/Roasted-Chicken-with-Lemon-and-Rosemary
+ Simple Whole Roasted Chicken| white sugar | 1 | True | 4.623262 | http://allrecipes.com/Recipe/Simple-Whole-Roasted-Chicken
+ Simple Whole Roasted Chicken| ground cloves | 1 | True | 4.623262 | http://allrecipes.com/Recipe/Simple-Whole-Roasted-Chicken
+ Simple Whole Roasted Chicken| ground allspice | 1 | True | 4.623262 | http://allrecipes.com/Recipe/Simple-Whole-Roasted-Chicken
+ Simple Whole Roasted Chicken| ground nutmeg | 1 | True | 4.623262 | http://allrecipes.com/Recipe/Simple-Whole-Roasted-Chicken
+ Simple Whole Roasted Chicken| ground | 1 | True | 4.623262 | http://allrecipes.com/Recipe/Simple-Whole-Roasted-Chicken
+ Simple Whole Roasted Chicken| whole | 1 | True | 4.623262 | http://allrecipes.com/Recipe/Simple-Whole-Roasted-Chicken
+ Jewish Chicken Soup| whole | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Jewish Chicken Soup| yellow onion | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Jewish Chicken Soup| carrots | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Jewish Chicken Soup| parsnip | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Jewish Chicken Soup| celery | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Jewish Chicken Soup| dill weed | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Jewish Chicken Soup| salt pepper | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Jewish Chicken Soup| matzo meal | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Jewish Chicken Soup| eggs | 1 | True | 4.489796 | http://allrecipes.com/Recipe/Jewish-Chicken-Soup
+ Broccoli Soup| onion | 1 | True | 4.285141 | http://allrecipes.com/Recipe/Broccoli-Soup
+ Broccoli Soup| broccoli | 1 | True | 4.285141 | http://allrecipes.com/Recipe/Broccoli-Soup
+ Broccoli Soup| potato | 1 | True | 4.285141 | http://allrecipes.com/Recipe/Broccoli-Soup
+ Broccoli Soup| chicken broth | 1 | True | 4.285141 | http://allrecipes.com/Recipe/Broccoli-Soup
+ Broccoli Soup| ground nutmeg | 1 | True | 4.285141 | http://allrecipes.com/Recipe/Broccoli-Soup
+ Broccoli Soup| salt pepper | 1 | True | 4.285141 | http://allrecipes.com/Recipe/Broccoli-Soup
+ Broccoli and Stilton Soup| onion | 1 | True | 4.195122 | http://allrecipes.com/Recipe/Broccoli-and-Stilton-Soup
+ Broccoli and Stilton Soup| broccoli | 1 | True | 4.195122 | http://allrecipes.com/Recipe/Broccoli-and-Stilton-Soup
+ Broccoli and Stilton Soup| potatoes | 1 | True | 4.195122 | http://allrecipes.com/Recipe/Broccoli-and-Stilton-Soup
+ Broccoli and Stilton Soup| chicken broth | 1 | True | 4.195122 | http://allrecipes.com/Recipe/Broccoli-and-Stilton-Soup
+ Broccoli and Stilton Soup| stilton | 1 | True | 4.195122 | http://allrecipes.com/Recipe/Broccoli-and-Stilton-Soup
+ Broccoli Cheese Soup V| broccoli | 1 | True | 4.648571 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-V
+ Broccoli Cheese Soup V| chicken broth | 1 | True | 4.648571 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-V
+ Broccoli Cheese Soup V| margarine | 1 | True | 4.648571 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-V
+ Broccoli Cheese Soup V| onion | 1 | True | 4.648571 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-V
+ Broccoli Cheese Soup V| milk | 1 | True | 4.648571 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-V
+ Broccoli Cheese Soup V| food eg. Velveeta ) | 1 | True | 4.648571 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-V
+ Broccoli Cheese Soup V| ground pepper | 1 | True | 4.648571 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-V
+ Broccoli Cheese Soup| butter | 1 | True | 4.62217 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup
+ Broccoli Cheese Soup| onion | 1 | True | 4.62217 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup
+ Broccoli Cheese Soup| broccoli | 1 | True | 4.62217 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup
+ Broccoli Cheese Soup| chicken broth | 1 | True | 4.62217 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup
+ Broccoli Cheese Soup| food | 1 | True | 4.62217 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup
+ Broccoli Cheese Soup| milk | 1 | True | 4.62217 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup
+ Broccoli Cheese Soup| powder | 1 | True | 4.62217 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup
+ Broccoli Cheese Soup| cornstarch | 1 | True | 4.62217 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup
+ Irresistible Broccoli Cheese Soup| broccoli | 1 | True | 3.125 | http://allrecipes.com/Recipe/Irresistible-Broccoli-Cheese-Soup
+ Irresistible Broccoli Cheese Soup| butter | 1 | True | 3.125 | http://allrecipes.com/Recipe/Irresistible-Broccoli-Cheese-Soup
+ Irresistible Broccoli Cheese Soup| Cheddar cheese | 1 | True | 3.125 | http://allrecipes.com/Recipe/Irresistible-Broccoli-Cheese-Soup
+ Irresistible Broccoli Cheese Soup| mozzarella cheese | 1 | True | 3.125 | http://allrecipes.com/Recipe/Irresistible-Broccoli-Cheese-Soup
+ Irresistible Broccoli Cheese Soup| cashews | 1 | True | 3.125 | http://allrecipes.com/Recipe/Irresistible-Broccoli-Cheese-Soup
+ Irresistible Broccoli Cheese Soup| soy sauce | 1 | True | 3.125 | http://allrecipes.com/Recipe/Irresistible-Broccoli-Cheese-Soup
+ Irresistible Broccoli Cheese Soup| cream | 1 | True | 3.125 | http://allrecipes.com/Recipe/Irresistible-Broccoli-Cheese-Soup
+ Irresistible Broccoli Cheese Soup| chicken broth | 1 | True | 3.125 | http://allrecipes.com/Recipe/Irresistible-Broccoli-Cheese-Soup
+ Broccoli Cheese Soup VI| chicken broth | 1 | True | 4.25 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-VI
+ Broccoli Cheese Soup VI| Cheddar cheese | 1 | True | 4.25 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-VI
+ Broccoli Cheese Soup VI| onion flakes | 1 | True | 4.25 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-VI
+ Broccoli Cheese Soup VI| ground pepper | 1 | True | 4.25 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-VI
+ Broccoli Cheese Soup VI| broccoli florets | 1 | True | 4.25 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-VI
+ Broccoli Cheese Soup III| broccoli into size pieces | 1 | True | 4.440945 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-III
+ Broccoli Cheese Soup III| chicken broth | 1 | True | 4.440945 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-III
+ Broccoli Cheese Soup III| milk | 1 | True | 4.440945 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-III
+ Broccoli Cheese Soup III| cream of celery soup | 1 | True | 4.440945 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-III
+ Broccoli Cheese Soup III| cornstarch | 1 | True | 4.440945 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-III
+ Broccoli Cheese Soup III| cold water | 1 | True | 4.440945 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-III
+ Broccoli Cheese Soup III| Cheddar cheese | 1 | True | 4.440945 | http://allrecipes.com/Recipe/Broccoli-Cheese-Soup-III
+ Cream of Broccoli Cheese Soup II| chicken broth | 1 | True | 4.3 | http://allrecipes.com/Recipe/Cream-of-Broccoli-Cheese-Soup-II
+ Cream of Broccoli Cheese Soup II| broccoli | 1 | True | 4.3 | http://allrecipes.com/Recipe/Cream-of-Broccoli-Cheese-Soup-II
+ Cream of Broccoli Cheese Soup II| onion | 1 | True | 4.3 | http://allrecipes.com/Recipe/Cream-of-Broccoli-Cheese-Soup-II
+ Cream of Broccoli Cheese Soup II| carrots | 1 | True | 4.3 | http://allrecipes.com/Recipe/Cream-of-Broccoli-Cheese-Soup-II
+ Cream of Broccoli Cheese Soup II| bay leaf | 1 | True | 4.3 | http://allrecipes.com/Recipe/Cream-of-Broccoli-Cheese-Soup-II
+ Cream of Broccoli Cheese Soup II| cream | 1 | True | 4.3 | http://allrecipes.com/Recipe/Cream-of-Broccoli-Cheese-Soup-II
+ Best Cream Of Broccoli Soup| butter | 1 | True | 4.450732 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-Soup
+ Best Cream Of Broccoli Soup| onion | 1 | True | 4.450732 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-Soup
+ Best Cream Of Broccoli Soup| celery | 1 | True | 4.450732 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-Soup
+ Best Cream Of Broccoli Soup| chicken broth | 1 | True | 4.450732 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-Soup
+ Best Cream Of Broccoli Soup| broccoli florets | 1 | True | 4.450732 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-Soup
+ Best Cream Of Broccoli Soup| butter | 1 | True | 4.450732 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-Soup
+ Best Cream Of Broccoli Soup| milk | 1 | True | 4.450732 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-Soup
+ Best Cream Of Broccoli Soup| ground pepper | 1 | True | 4.450732 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-Soup
+ Best Cream Of Broccoli and Potato Soup| butter | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream Of Broccoli and Potato Soup| onion | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream Of Broccoli and Potato Soup| white potato | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream Of Broccoli and Potato Soup| broccoli florets stems | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream Of Broccoli and Potato Soup| salt ground black pepper | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream Of Broccoli and Potato Soup| chicken broth | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream Of Broccoli and Potato Soup| butter | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream Of Broccoli and Potato Soup| milk | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream Of Broccoli and Potato Soup| whipping cream | 1 | True | 4.8 | http://allrecipes.com/Recipe/Best-Cream-Of-Broccoli-and-Potato-Soup
+ Best Cream of Potato Soup| onion | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| celery | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| carrots | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| parsley | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| margarine | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| chicken broth | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| whole milk | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| potatoes into | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| Worcestershire sauce | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| mustard powder | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| ground allspice | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| celery | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| wine | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| ground cayenne pepper | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ Best Cream of Potato Soup| chicken powder | 1 | True | 4.525 | http://allrecipes.com/Recipe/Best-Cream-of-Potato-Soup
+ World's Best Potato Soup| onion | 1 | True | 4.698198 | http://allrecipes.com/Recipe/Worlds-Best-Potato-Soup
+ World's Best Potato Soup| celery | 1 | True | 4.698198 | http://allrecipes.com/Recipe/Worlds-Best-Potato-Soup
+ World's Best Potato Soup| chicken | 1 | True | 4.698198 | http://allrecipes.com/Recipe/Worlds-Best-Potato-Soup
+ World's Best Potato Soup| cream | 1 | True | 4.698198 | http://allrecipes.com/Recipe/Worlds-Best-Potato-Soup
+ World's Best Potato Soup| bacon | 1 | True | 4.698198 | http://allrecipes.com/Recipe/Worlds-Best-Potato-Soup
+ World's Best Potato Soup| cream of mushroom soup | 1 | True | 4.698198 | http://allrecipes.com/Recipe/Worlds-Best-Potato-Soup
+ World's Best Potato Soup| Cheddar cheese | 1 | True | 4.698198 | http://allrecipes.com/Recipe/Worlds-Best-Potato-Soup
+ Cheesy Potato Soup II| butter | 1 | True | 4.57561 | http://allrecipes.com/Recipe/Cheesy-Potato-Soup-II
+ Cheesy Potato Soup II| onions | 1 | True | 4.57561 | http://allrecipes.com/Recipe/Cheesy-Potato-Soup-II
+ Cheesy Potato Soup II| celery | 1 | True | 4.57561 | http://allrecipes.com/Recipe/Cheesy-Potato-Soup-II
+ Cheesy Potato Soup II| potatoes | 1 | True | 4.57561 | http://allrecipes.com/Recipe/Cheesy-Potato-Soup-II
+ Cheesy Potato Soup II| American into pieces | 1 | True | 4.57561 | http://allrecipes.com/Recipe/Cheesy-Potato-Soup-II
+ Cheesy Potato Soup II| milk | 1 | True | 4.57561 | http://allrecipes.com/Recipe/Cheesy-Potato-Soup-II
+ Cheesy Potato Soup II| parsley | 1 | True | 4.57561 | http://allrecipes.com/Recipe/Cheesy-Potato-Soup-II
+ Old-Fashioned Potato Soup| butter | 1 | True | 4.732218 | http://allrecipes.com/Recipe/Old-Fashioned-Potato-Soup
+ Old-Fashioned Potato Soup| onion | 1 | True | 4.732218 | http://allrecipes.com/Recipe/Old-Fashioned-Potato-Soup
+ Old-Fashioned Potato Soup| potatoes | 1 | True | 4.732218 | http://allrecipes.com/Recipe/Old-Fashioned-Potato-Soup
+ Old-Fashioned Potato Soup| carrots | 1 | True | 4.732218 | http://allrecipes.com/Recipe/Old-Fashioned-Potato-Soup
+ Old-Fashioned Potato Soup| chicken powder | 1 | True | 4.732218 | http://allrecipes.com/Recipe/Old-Fashioned-Potato-Soup
+ Old-Fashioned Potato Soup| ground pepper | 1 | True | 4.732218 | http://allrecipes.com/Recipe/Old-Fashioned-Potato-Soup
+ Old-Fashioned Potato Soup| milk | 1 | True | 4.732218 | http://allrecipes.com/Recipe/Old-Fashioned-Potato-Soup
+ Old-Fashioned Potato Soup| parsley | 1 | True | 4.732218 | http://allrecipes.com/Recipe/Old-Fashioned-Potato-Soup
+ Mandi's Cheesy Potato Soup| potatoes | 1 | True | 4.686275 | http://allrecipes.com/Recipe/Mandis-Cheesy-Potato-Soup
+ Mandi's Cheesy Potato Soup| carrot | 1 | True | 4.686275 | http://allrecipes.com/Recipe/Mandis-Cheesy-Potato-Soup
+ Mandi's Cheesy Potato Soup| celery | 1 | True | 4.686275 | http://allrecipes.com/Recipe/Mandis-Cheesy-Potato-Soup
+ Mandi's Cheesy Potato Soup| milk | 1 | True | 4.686275 | http://allrecipes.com/Recipe/Mandis-Cheesy-Potato-Soup
+ Mandi's Cheesy Potato Soup| margarine | 1 | True | 4.686275 | http://allrecipes.com/Recipe/Mandis-Cheesy-Potato-Soup
+ Mandi's Cheesy Potato Soup| steak | 1 | True | 4.686275 | http://allrecipes.com/Recipe/Mandis-Cheesy-Potato-Soup
+ Mandi's Cheesy Potato Soup| ground pepper | 1 | True | 4.686275 | http://allrecipes.com/Recipe/Mandis-Cheesy-Potato-Soup
+ Mandi's Cheesy Potato Soup| blend | 1 | True | 4.686275 | http://allrecipes.com/Recipe/Mandis-Cheesy-Potato-Soup
+ Golden Potato Soup| potatoes | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Golden Potato Soup| celery | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Golden Potato Soup| onion | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Golden Potato Soup| chicken | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Golden Potato Soup| parsley | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Golden Potato Soup| ground pepper | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Golden Potato Soup| milk | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Golden Potato Soup| American cheese | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Golden Potato Soup| ham | 1 | True | 4.72948 | http://allrecipes.com/Recipe/Golden-Potato-Soup
+ Potato and Cheddar Soup| potatoes | 1 | True | 4.230769 | http://allrecipes.com/Recipe/Potato-and-Cheddar-Soup
+ Potato and Cheddar Soup| butter | 1 | True | 4.230769 | http://allrecipes.com/Recipe/Potato-and-Cheddar-Soup
+ Potato and Cheddar Soup| onion | 1 | True | 4.230769 | http://allrecipes.com/Recipe/Potato-and-Cheddar-Soup
+ Potato and Cheddar Soup| salt pepper | 1 | True | 4.230769 | http://allrecipes.com/Recipe/Potato-and-Cheddar-Soup
+ Potato and Cheddar Soup| milk | 1 | True | 4.230769 | http://allrecipes.com/Recipe/Potato-and-Cheddar-Soup
+ Potato and Cheddar Soup| white sugar | 1 | True | 4.230769 | http://allrecipes.com/Recipe/Potato-and-Cheddar-Soup
+ Potato and Cheddar Soup| Cheddar cheese | 1 | True | 4.230769 | http://allrecipes.com/Recipe/Potato-and-Cheddar-Soup
+ Potato and Cheddar Soup| ham | 1 | True | 4.230769 | http://allrecipes.com/Recipe/Potato-and-Cheddar-Soup
+ Creamy Potato Soup| bacon | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Soup| potatoes | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Soup| onion | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Soup| carrot | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Soup| celery | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Soup| milk | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Soup| ground pepper | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Soup| cream | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Soup| paprika | 1 | True | 3.829787 | http://allrecipes.com/Recipe/Creamy-Potato-Soup
+ Creamy Potato Leek Soup II| potatoes | 1 | True | 4.664983 | http://allrecipes.com/Recipe/Creamy-Potato-Leek-Soup-II
+ Creamy Potato Leek Soup II| chicken broth | 1 | True | 4.664983 | http://allrecipes.com/Recipe/Creamy-Potato-Leek-Soup-II
+ Creamy Potato Leek Soup II| bacon into inch pieces | 1 | True | 4.664983 | http://allrecipes.com/Recipe/Creamy-Potato-Leek-Soup-II
+ Creamy Potato Leek Soup II| leeks | 1 | True | 4.664983 | http://allrecipes.com/Recipe/Creamy-Potato-Leek-Soup-II
+ Creamy Potato Leek Soup II| cream | 1 | True | 4.664983 | http://allrecipes.com/Recipe/Creamy-Potato-Leek-Soup-II
+ Potato Leek Soup III| butter | 1 | True | 4.659744 | http://allrecipes.com/Recipe/Potato-Leek-Soup-III
+ Potato Leek Soup III| leeks | 1 | True | 4.659744 | http://allrecipes.com/Recipe/Potato-Leek-Soup-III
+ Potato Leek Soup III| salt pepper | 1 | True | 4.659744 | http://allrecipes.com/Recipe/Potato-Leek-Soup-III
+ Potato Leek Soup III| chicken broth | 1 | True | 4.659744 | http://allrecipes.com/Recipe/Potato-Leek-Soup-III
+ Potato Leek Soup III| cornstarch | 1 | True | 4.659744 | http://allrecipes.com/Recipe/Potato-Leek-Soup-III
+ Potato Leek Soup III| Yukon Gold | 1 | True | 4.659744 | http://allrecipes.com/Recipe/Potato-Leek-Soup-III
+ Potato Leek Soup III| cream | 1 | True | 4.659744 | http://allrecipes.com/Recipe/Potato-Leek-Soup-III
+ Real Potato Leek Soup| potatoes | 1 | True | 4.168141 | http://allrecipes.com/Recipe/Real-Potato-Leek-Soup
+ Real Potato Leek Soup| chicken broth | 1 | True | 4.168141 | http://allrecipes.com/Recipe/Real-Potato-Leek-Soup
+ Real Potato Leek Soup| leeks | 1 | True | 4.168141 | http://allrecipes.com/Recipe/Real-Potato-Leek-Soup
+ Real Potato Leek Soup| butter | 1 | True | 4.168141 | http://allrecipes.com/Recipe/Real-Potato-Leek-Soup
+ Real Potato Leek Soup| milk | 1 | True | 4.168141 | http://allrecipes.com/Recipe/Real-Potato-Leek-Soup
+ Real Potato Leek Soup| salt pepper | 1 | True | 4.168141 | http://allrecipes.com/Recipe/Real-Potato-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| leeks | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| white onion | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| celery | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| carrot | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| sweet | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| sugar pumpkin | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| chicken stock | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| whipping cream | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| bay leaf | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| sage | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| ground cloves | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| ground nutmeg | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| ground | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, and Leek Soup| ground pepper | 1 | True | 4.25 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-and-Leek-Soup
+ Pumpkin, Sweet Potato, Leek and Coconut Milk Soup| onion | 1 | True | 4.106383 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-Leek-and-Coconut-Milk-Soup
+ Pumpkin, Sweet Potato, Leek and Coconut Milk Soup| leek | 1 | True | 4.106383 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-Leek-and-Coconut-Milk-Soup
+ Pumpkin, Sweet Potato, Leek and Coconut Milk Soup| pumpkin | 1 | True | 4.106383 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-Leek-and-Coconut-Milk-Soup
+ Pumpkin, Sweet Potato, Leek and Coconut Milk Soup| sweet potato | 1 | True | 4.106383 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-Leek-and-Coconut-Milk-Soup
+ Pumpkin, Sweet Potato, Leek and Coconut Milk Soup| broth | 1 | True | 4.106383 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-Leek-and-Coconut-Milk-Soup
+ Pumpkin, Sweet Potato, Leek and Coconut Milk Soup| light milk | 1 | True | 4.106383 | http://allrecipes.com/Recipe/Pumpkin-Sweet-Potato-Leek-and-Coconut-Milk-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| butter | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| sweet | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| carrots | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| apple | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| onion | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| lentils | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| ginger | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| ground pepper | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| ground cumin | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| chili powder | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| paprika | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| broth | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Sweet Potato, Carrot, Apple, and Red Lentil Soup| plain | 1 | True | 4.708176 | http://allrecipes.com/Recipe/Sweet-Potato-Carrot-Apple-and-Red-Lentil-Soup
+ Spicy Sweet Potato and Coconut Soup| sweet | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Spicy Sweet Potato and Coconut Soup| onion | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Spicy Sweet Potato and Coconut Soup| ginger root | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Spicy Sweet Potato and Coconut Soup| curry paste | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Spicy Sweet Potato and Coconut Soup| milk | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Spicy Sweet Potato and Coconut Soup| broth | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Spicy Sweet Potato and Coconut Soup| lemon juice | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Spicy Sweet Potato and Coconut Soup| sea | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Spicy Sweet Potato and Coconut Soup| cilantro | 1 | True | 4.579909 | http://allrecipes.com/Recipe/Spicy-Sweet-Potato-and-Coconut-Soup
+ Lorene's Slow Cooker Potato Soup| onions | 1 | True | 3.444444 | http://allrecipes.com/Recipe/Lorenes-Slow-Cooker-Potato-Soup
+ Lorene's Slow Cooker Potato Soup| celery | 1 | True | 3.444444 | http://allrecipes.com/Recipe/Lorenes-Slow-Cooker-Potato-Soup
+ Lorene's Slow Cooker Potato Soup| potatoes | 1 | True | 3.444444 | http://allrecipes.com/Recipe/Lorenes-Slow-Cooker-Potato-Soup
+ Lorene's Slow Cooker Potato Soup| dill | 1 | True | 3.444444 | http://allrecipes.com/Recipe/Lorenes-Slow-Cooker-Potato-Soup
+ Lorene's Slow Cooker Potato Soup| broth | 1 | True | 3.444444 | http://allrecipes.com/Recipe/Lorenes-Slow-Cooker-Potato-Soup
+ Delicious Ham and Potato Soup| potatoes | 1 | True | 4.829399 | http://allrecipes.com/Recipe/Delicious-Ham-and-Potato-Soup
+ Delicious Ham and Potato Soup| celery | 1 | True | 4.829399 | http://allrecipes.com/Recipe/Delicious-Ham-and-Potato-Soup
+ Delicious Ham and Potato Soup| onion | 1 | True | 4.829399 | http://allrecipes.com/Recipe/Delicious-Ham-and-Potato-Soup
+ Delicious Ham and Potato Soup| ham | 1 | True | 4.829399 | http://allrecipes.com/Recipe/Delicious-Ham-and-Potato-Soup
+ Delicious Ham and Potato Soup| chicken granules | 1 | True | 4.829399 | http://allrecipes.com/Recipe/Delicious-Ham-and-Potato-Soup
+ Delicious Ham and Potato Soup| ground pepper | 1 | True | 4.829399 | http://allrecipes.com/Recipe/Delicious-Ham-and-Potato-Soup
+ Delicious Ham and Potato Soup| butter | 1 | True | 4.829399 | http://allrecipes.com/Recipe/Delicious-Ham-and-Potato-Soup
+ Delicious Ham and Potato Soup| milk | 1 | True | 4.829399 | http://allrecipes.com/Recipe/Delicious-Ham-and-Potato-Soup
+ Miso Soup| dashi granules | 1 | True | 4.709677 | http://allrecipes.com/Recipe/Miso-Soup
+ Miso Soup| silken | 1 | True | 4.709677 | http://allrecipes.com/Recipe/Miso-Soup
+ Miso Soup| onions into | 1 | True | 4.709677 | http://allrecipes.com/Recipe/Miso-Soup
+ Spinach and Leek White Bean Soup| leeks bulb | 1 | True | 4.223022 | http://allrecipes.com/Recipe/Spinach-and-Leek-White-Bean-Soup
+ Spinach and Leek White Bean Soup| broth | 1 | True | 4.223022 | http://allrecipes.com/Recipe/Spinach-and-Leek-White-Bean-Soup
+ Spinach and Leek White Bean Soup| cannellini beans | 1 | True | 4.223022 | http://allrecipes.com/Recipe/Spinach-and-Leek-White-Bean-Soup
+ Spinach and Leek White Bean Soup| bay | 1 | True | 4.223022 | http://allrecipes.com/Recipe/Spinach-and-Leek-White-Bean-Soup
+ Spinach and Leek White Bean Soup| ground cumin | 1 | True | 4.223022 | http://allrecipes.com/Recipe/Spinach-and-Leek-White-Bean-Soup
+ Spinach and Leek White Bean Soup| whole | 1 | True | 4.223022 | http://allrecipes.com/Recipe/Spinach-and-Leek-White-Bean-Soup
+ Spinach and Leek White Bean Soup| spinach | 1 | True | 4.223022 | http://allrecipes.com/Recipe/Spinach-and-Leek-White-Bean-Soup
+ Spinach and Leek White Bean Soup| salt pepper | 1 | True | 4.223022 | http://allrecipes.com/Recipe/Spinach-and-Leek-White-Bean-Soup
+ Suki's Spinach and Feta Pasta| penne pasta | 1 | True | 4.573604 | http://allrecipes.com/Recipe/Sukis-Spinach-and-Feta-Pasta
+ Suki's Spinach and Feta Pasta| onion | 1 | True | 4.573604 | http://allrecipes.com/Recipe/Sukis-Spinach-and-Feta-Pasta
+ Suki's Spinach and Feta Pasta| mushrooms | 1 | True | 4.573604 | http://allrecipes.com/Recipe/Sukis-Spinach-and-Feta-Pasta
+ Suki's Spinach and Feta Pasta| spinach | 1 | True | 4.573604 | http://allrecipes.com/Recipe/Sukis-Spinach-and-Feta-Pasta
+ Suki's Spinach and Feta Pasta| salt pepper | 1 | True | 4.573604 | http://allrecipes.com/Recipe/Sukis-Spinach-and-Feta-Pasta
+ Suki's Spinach and Feta Pasta| pepper flakes | 1 | True | 4.573604 | http://allrecipes.com/Recipe/Sukis-Spinach-and-Feta-Pasta
+ Suki's Spinach and Feta Pasta| feta | 1 | True | 4.573604 | http://allrecipes.com/Recipe/Sukis-Spinach-and-Feta-Pasta
+ Spinach and Feta Pita Bake| whole pita breads | 1 | True | 4.738061 | http://allrecipes.com/Recipe/Spinach-and-Feta-Pita-Bake
+ Spinach and Feta Pita Bake| tomato pesto | 1 | True | 4.738061 | http://allrecipes.com/Recipe/Spinach-and-Feta-Pita-Bake
+ Spinach and Feta Pita Bake| roma plum | 1 | True | 4.738061 | http://allrecipes.com/Recipe/Spinach-and-Feta-Pita-Bake
+ Spinach and Feta Pita Bake| spinach | 1 | True | 4.738061 | http://allrecipes.com/Recipe/Spinach-and-Feta-Pita-Bake
+ Spinach and Feta Pita Bake| mushrooms | 1 | True | 4.738061 | http://allrecipes.com/Recipe/Spinach-and-Feta-Pita-Bake
+ Spinach and Feta Pita Bake| feta cheese | 1 | True | 4.738061 | http://allrecipes.com/Recipe/Spinach-and-Feta-Pita-Bake
+ Spinach and Feta Pita Bake| Parmesan cheese | 1 | True | 4.738061 | http://allrecipes.com/Recipe/Spinach-and-Feta-Pita-Bake
+ Spinach and Feta Pita Bake| ground pepper | 1 | True | 4.738061 | http://allrecipes.com/Recipe/Spinach-and-Feta-Pita-Bake
+ Avocado Feta Salsa| plum | 1 | True | 4.796537 | http://allrecipes.com/Recipe/Avocado-Feta-Salsa
+ Avocado Feta Salsa| ripe | 1 | True | 4.796537 | http://allrecipes.com/Recipe/Avocado-Feta-Salsa
+ Avocado Feta Salsa| onion | 1 | True | 4.796537 | http://allrecipes.com/Recipe/Avocado-Feta-Salsa
+ Avocado Feta Salsa| parsley | 1 | True | 4.796537 | http://allrecipes.com/Recipe/Avocado-Feta-Salsa
+ Avocado Feta Salsa| oregano | 1 | True | 4.796537 | http://allrecipes.com/Recipe/Avocado-Feta-Salsa
+ Avocado Feta Salsa| wine vinegar | 1 | True | 4.796537 | http://allrecipes.com/Recipe/Avocado-Feta-Salsa
+ Avocado Feta Salsa| feta cheese | 1 | True | 4.796537 | http://allrecipes.com/Recipe/Avocado-Feta-Salsa
+ Avocado, Tomato and Mango Salsa| mango | 1 | True | 4.795431 | http://allrecipes.com/Recipe/Avocado-Tomato-and-Mango-Salsa
+ Avocado, Tomato and Mango Salsa| avocado | 1 | True | 4.795431 | http://allrecipes.com/Recipe/Avocado-Tomato-and-Mango-Salsa
+ Avocado, Tomato and Mango Salsa| tomatoes | 1 | True | 4.795431 | http://allrecipes.com/Recipe/Avocado-Tomato-and-Mango-Salsa
+ Avocado, Tomato and Mango Salsa| jalapeno pepper | 1 | True | 4.795431 | http://allrecipes.com/Recipe/Avocado-Tomato-and-Mango-Salsa
+ Avocado, Tomato and Mango Salsa| cilantro | 1 | True | 4.795431 | http://allrecipes.com/Recipe/Avocado-Tomato-and-Mango-Salsa
+ Avocado, Tomato and Mango Salsa| lime juice | 1 | True | 4.795431 | http://allrecipes.com/Recipe/Avocado-Tomato-and-Mango-Salsa
+ Avocado, Tomato and Mango Salsa| onion | 1 | True | 4.795431 | http://allrecipes.com/Recipe/Avocado-Tomato-and-Mango-Salsa
+ Eggplant Tomato Salad| bell pepper | 1 | True | 3.555556 | http://allrecipes.com/Recipe/Eggplant-Tomato-Salad
+ Eggplant Tomato Salad| bell pepper | 1 | True | 3.555556 | http://allrecipes.com/Recipe/Eggplant-Tomato-Salad
+ Eggplant Tomato Salad| tomatoes | 1 | True | 3.555556 | http://allrecipes.com/Recipe/Eggplant-Tomato-Salad
+ Eggplant Tomato Salad| eggplant | 1 | True | 3.555556 | http://allrecipes.com/Recipe/Eggplant-Tomato-Salad
+ Eggplant Tomato Salad| extra virgin olive oil | 1 | True | 3.555556 | http://allrecipes.com/Recipe/Eggplant-Tomato-Salad
+ Eggplant Tomato Salad| tomato paste | 1 | True | 3.555556 | http://allrecipes.com/Recipe/Eggplant-Tomato-Salad
+ Eggplant Tomato Salad| ground pepper | 1 | True | 3.555556 | http://allrecipes.com/Recipe/Eggplant-Tomato-Salad
+ Eggplant Tomato Salad| cayenne pepper | 1 | True | 3.555556 | http://allrecipes.com/Recipe/Eggplant-Tomato-Salad
+ Panzanella Salad| day bread torn into pieces | 1 | True | 4.671378 | http://allrecipes.com/Recipe/Panzanella-Salad
+ Panzanella Salad| salt pepper | 1 | True | 4.671378 | http://allrecipes.com/Recipe/Panzanella-Salad
+ Panzanella Salad| vinegar | 1 | True | 4.671378 | http://allrecipes.com/Recipe/Panzanella-Salad
+ Panzanella Salad| ripe into wedges | 1 | True | 4.671378 | http://allrecipes.com/Recipe/Panzanella-Salad
+ Panzanella Salad| onion | 1 | True | 4.671378 | http://allrecipes.com/Recipe/Panzanella-Salad
+ Panzanella Salad| basil | 1 | True | 4.671378 | http://allrecipes.com/Recipe/Panzanella-Salad
+ Panzanella Salad| olives | 1 | True | 4.671378 | http://allrecipes.com/Recipe/Panzanella-Salad
+ Panzanella Salad| mozzarella into pieces | 1 | True | 4.671378 | http://allrecipes.com/Recipe/Panzanella-Salad
+ Harvest Salad| walnuts | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| spinach torn into pieces | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| cranberries | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| cheese | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| tomatoes | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| avocado | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| onion | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| raspberry jam with seeds | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| wine vinegar | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Harvest Salad| walnut oil | 1 | True | 4.780247 | http://allrecipes.com/Recipe/Harvest-Salad
+ Kerry's Beany Salad| pearl barley | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| rice | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| beans | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| kidney beans | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| whole corn kernels | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| onions | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| bell pepper | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| cilantro | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| lettuce | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| wine vinegar | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| chili powder | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| pepper flakes | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Kerry's Beany Salad| ground pepper | 1 | True | 4.666667 | http://allrecipes.com/Recipe/Kerrys-Beany-Salad
+ Mexican Bean and Rice Salad| rice | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| kidney beans | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| black beans | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| whole kernel corn | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| onion | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| bell pepper | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| jalapeno peppers | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| lime | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| leaves | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Mexican Bean and Rice Salad| ground cumin | 1 | True | 4.358696 | http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad
+ Black Bean and Couscous Salad| chicken broth | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| extra virgin olive oil | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| lime juice | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| wine vinegar | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| ground cumin | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| onions | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| bell pepper | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| cilantro | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| corn kernels | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| black beans | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Black Bean and Couscous Salad| salt pepper | 1 | True | 4.69052 | http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad
+ Quinoa and Black Beans| onion | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Quinoa and Black Beans| quinoa | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Quinoa and Black Beans| broth | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Quinoa and Black Beans| ground cumin | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Quinoa and Black Beans| cayenne pepper | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Quinoa and Black Beans| salt pepper | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Quinoa and Black Beans| corn kernels | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Quinoa and Black Beans| black beans | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Quinoa and Black Beans| cilantro | 1 | True | 4.639792 | http://allrecipes.com/Recipe/Quinoa-and-Black-Beans
+ Black Bean Brownies| black beans | 1 | True | 4.077612 | http://allrecipes.com/Recipe/Black-Bean-Brownies
+ Black Bean Brownies| eggs | 1 | True | 4.077612 | http://allrecipes.com/Recipe/Black-Bean-Brownies
+ Black Bean Brownies| cocoa powder | 1 | True | 4.077612 | http://allrecipes.com/Recipe/Black-Bean-Brownies
+ Black Bean Brownies| vanilla extract | 1 | True | 4.077612 | http://allrecipes.com/Recipe/Black-Bean-Brownies
+ Black Bean Brownies| white sugar | 1 | True | 4.077612 | http://allrecipes.com/Recipe/Black-Bean-Brownies
+ Black Bean Brownies| instant coffee | 1 | True | 4.077612 | http://allrecipes.com/Recipe/Black-Bean-Brownies
+ Black Bean Brownies| milk chocolate chips | 1 | True | 4.077612 | http://allrecipes.com/Recipe/Black-Bean-Brownies
+ Homemade Black Bean Veggie Burgers| black beans | 1 | True | 4.355539 | http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers
+ Homemade Black Bean Veggie Burgers| bell pepper into inch pieces | 1 | True | 4.355539 | http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers
+ Homemade Black Bean Veggie Burgers| onion into wedges | 1 | True | 4.355539 | http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers
+ Homemade Black Bean Veggie Burgers| egg | 1 | True | 4.355539 | http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers
+ Homemade Black Bean Veggie Burgers| chili powder | 1 | True | 4.355539 | http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers
+ Homemade Black Bean Veggie Burgers| cumin | 1 | True | 4.355539 | http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers
+ Homemade Black Bean Veggie Burgers| Thai chili sauce sauce | 1 | True | 4.355539 | http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers
+ Homemade Black Bean Veggie Burgers| bread crumbs | 1 | True | 4.355539 | http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers
+ Quinoa Black Bean Burgers| black beans | 1 | True | 4.706278 | http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers
+ Quinoa Black Bean Burgers| quinoa | 1 | True | 4.706278 | http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers
+ Quinoa Black Bean Burgers| bread crumbs | 1 | True | 4.706278 | http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers
+ Quinoa Black Bean Burgers| bell pepper | 1 | True | 4.706278 | http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers
+ Quinoa Black Bean Burgers| onion | 1 | True | 4.706278 | http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers
+ Quinoa Black Bean Burgers| ground cumin | 1 | True | 4.706278 | http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers
+ Quinoa Black Bean Burgers| pepper sauce as Frank RedHot | 1 | True | 4.706278 | http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers
+ Quinoa Black Bean Burgers| egg | 1 | True | 4.706278 | http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers
+ Quinoa and Black Bean Chili| quinoa | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| onion | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| chili powder | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| ground cumin | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| black beans | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| bell pepper | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| bell pepper | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| zucchini | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| jalapeno pepper | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| chipotle peppers in adobo sauce | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| salt ground black pepper | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| corn | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Quinoa and Black Bean Chili| cilantro | 1 | True | 4.60061 | http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili
+ Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili| pork tenderloin into inch strips | 1 | True | 4.573771 | http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili
+ Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili| onion | 1 | True | 4.573771 | http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili
+ Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili| bell pepper | 1 | True | 4.573771 | http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili
+ Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili| black beans | 1 | True | 4.573771 | http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili
+ Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili| salsa | 1 | True | 4.573771 | http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili
+ Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili| chicken broth | 1 | True | 4.573771 | http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili
+ Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili| ground cumin | 1 | True | 4.573771 | http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili
+ Jerre's Black Bean and Pork Tenderloin Slow Cooker Chili| chili powder | 1 | True | 4.573771 | http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili
+ Slow Cooker Teriyaki Pork Tenderloin| pork tenderloin | 1 | True | 4.465466 | http://allrecipes.com/Recipe/Slow-Cooker-Teriyaki-Pork-Tenderloin
+ Slow Cooker Teriyaki Pork Tenderloin| teriyaki sauce | 1 | True | 4.465466 | http://allrecipes.com/Recipe/Slow-Cooker-Teriyaki-Pork-Tenderloin
+ Slow Cooker Teriyaki Pork Tenderloin| chicken broth | 1 | True | 4.465466 | http://allrecipes.com/Recipe/Slow-Cooker-Teriyaki-Pork-Tenderloin
+ Slow Cooker Teriyaki Pork Tenderloin| brown sugar | 1 | True | 4.465466 | http://allrecipes.com/Recipe/Slow-Cooker-Teriyaki-Pork-Tenderloin
+ Slow Cooker Teriyaki Pork Tenderloin| onion | 1 | True | 4.465466 | http://allrecipes.com/Recipe/Slow-Cooker-Teriyaki-Pork-Tenderloin
+ Slow Cooker Teriyaki Pork Tenderloin| black pepper | 1 | True | 4.465466 | http://allrecipes.com/Recipe/Slow-Cooker-Teriyaki-Pork-Tenderloin
+ Charley's Slow Cooker Mexican Style Meat| chuck | 1 | True | 4.60124 | http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat
+ Charley's Slow Cooker Mexican Style Meat| ground pepper | 1 | True | 4.60124 | http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat
+ Charley's Slow Cooker Mexican Style Meat| onion | 1 | True | 4.60124 | http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat
+ Charley's Slow Cooker Mexican Style Meat| chile pepper | 1 | True | 4.60124 | http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat
+ Charley's Slow Cooker Mexican Style Meat| chili powder | 1 | True | 4.60124 | http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat
+ Charley's Slow Cooker Mexican Style Meat| ground cayenne pepper | 1 | True | 4.60124 | http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat
+ Charley's Slow Cooker Mexican Style Meat| pepper sauce | 1 | True | 4.60124 | http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat
+ Charley's Slow Cooker Mexican Style Meat| powder | 1 | True | 4.60124 | http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat
+ Baked Slow Cooker Chicken| whole | 1 | True | 4.253627 | http://allrecipes.com/Recipe/Baked-Slow-Cooker-Chicken
+ Baked Slow Cooker Chicken| salt pepper | 1 | True | 4.253627 | http://allrecipes.com/Recipe/Baked-Slow-Cooker-Chicken
+ Baked Slow Cooker Chicken| paprika | 1 | True | 4.253627 | http://allrecipes.com/Recipe/Baked-Slow-Cooker-Chicken
+ Laura's Quick Slow Cooker Turkey Chili| ground turkey | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| sodium tomato soup | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| kidney beans | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| black beans | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| onion | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| chili powder | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| pepper flakes | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| powder | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| ground cumin | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| ground pepper | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Laura's Quick Slow Cooker Turkey Chili| ground allspice | 1 | True | 4.630252 | http://allrecipes.com/Recipe/Lauras-Quick-Slow-Cooker-Turkey-Chili
+ Slow Cooker Spicy Black-Eyed Peas| chicken | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| peas | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| onion | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| bell pepper | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| jalapeno | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| ham | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| bacon | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| cayenne pepper | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| cumin | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Slow Cooker Spicy Black-Eyed Peas| ground pepper | 1 | True | 4.630232 | http://allrecipes.com/Recipe/Slow-Cooker-Spicy-Black-Eyed-Peas
+ Refried Beans Without the Refry| onion | 1 | True | 4.681489 | http://allrecipes.com/Recipe/Refried-Beans-Without-the-Refry
+ Refried Beans Without the Refry| pinto beans | 1 | True | 4.681489 | http://allrecipes.com/Recipe/Refried-Beans-Without-the-Refry
+ Refried Beans Without the Refry| jalapeno pepper | 1 | True | 4.681489 | http://allrecipes.com/Recipe/Refried-Beans-Without-the-Refry
+ Refried Beans Without the Refry| ground black pepper | 1 | True | 4.681489 | http://allrecipes.com/Recipe/Refried-Beans-Without-the-Refry
+ Refried Beans Without the Refry| ground cumin | 1 | True | 4.681489 | http://allrecipes.com/Recipe/Refried-Beans-Without-the-Refry
+ Carrot Rice| basmati rice | 1 | True | 4.374787 | http://allrecipes.com/Recipe/Carrot-Rice
+ Carrot Rice| peanuts | 1 | True | 4.374787 | http://allrecipes.com/Recipe/Carrot-Rice
+ Carrot Rice| margarine | 1 | True | 4.374787 | http://allrecipes.com/Recipe/Carrot-Rice
+ Carrot Rice| onion | 1 | True | 4.374787 | http://allrecipes.com/Recipe/Carrot-Rice
+ Carrot Rice| ginger root | 1 | True | 4.374787 | http://allrecipes.com/Recipe/Carrot-Rice
+ Carrot Rice| carrots | 1 | True | 4.374787 | http://allrecipes.com/Recipe/Carrot-Rice
+ Carrot Rice| cayenne pepper | 1 | True | 4.374787 | http://allrecipes.com/Recipe/Carrot-Rice
+ Carrot Rice| cilantro | 1 | True | 4.374787 | http://allrecipes.com/Recipe/Carrot-Rice
+ Harvest Rice Dish| almonds | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| chicken broth | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| rice | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| rice | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| butter | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| onions into | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| brown sugar | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| cranberries | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| mushrooms | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| orange | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Harvest Rice Dish| salt pepper | 1 | True | 4.613027 | http://allrecipes.com/Recipe/Harvest-Rice-Dish
+ Creamy Rice Pudding| rice | 1 | True | 4.722749 | http://allrecipes.com/Recipe/Creamy-Rice-Pudding
+ Creamy Rice Pudding| milk | 1 | True | 4.722749 | http://allrecipes.com/Recipe/Creamy-Rice-Pudding
+ Creamy Rice Pudding| white sugar | 1 | True | 4.722749 | http://allrecipes.com/Recipe/Creamy-Rice-Pudding
+ Creamy Rice Pudding| egg | 1 | True | 4.722749 | http://allrecipes.com/Recipe/Creamy-Rice-Pudding
+ Creamy Rice Pudding| golden raisins | 1 | True | 4.722749 | http://allrecipes.com/Recipe/Creamy-Rice-Pudding
+ Creamy Rice Pudding| butter | 1 | True | 4.722749 | http://allrecipes.com/Recipe/Creamy-Rice-Pudding
+ Creamy Rice Pudding| vanilla extract | 1 | True | 4.722749 | http://allrecipes.com/Recipe/Creamy-Rice-Pudding
+ Bread Pudding II| bread | 1 | True | 4.704866 | http://allrecipes.com/Recipe/Bread-Pudding-II
+ Bread Pudding II| butter | 1 | True | 4.704866 | http://allrecipes.com/Recipe/Bread-Pudding-II
+ Bread Pudding II| raisins | 1 | True | 4.704866 | http://allrecipes.com/Recipe/Bread-Pudding-II
+ Bread Pudding II| eggs | 1 | True | 4.704866 | http://allrecipes.com/Recipe/Bread-Pudding-II
+ Bread Pudding II| milk | 1 | True | 4.704866 | http://allrecipes.com/Recipe/Bread-Pudding-II
+ Bread Pudding II| white sugar | 1 | True | 4.704866 | http://allrecipes.com/Recipe/Bread-Pudding-II
+ Bread Pudding II| ground | 1 | True | 4.704866 | http://allrecipes.com/Recipe/Bread-Pudding-II
+ Bread Pudding II| vanilla extract | 1 | True | 4.704866 | http://allrecipes.com/Recipe/Bread-Pudding-II
+ Quinoa Pudding| quinoa | 1 | True | 3.921986 | http://allrecipes.com/Recipe/Quinoa-Pudding
+ Quinoa Pudding| apple juice | 1 | True | 3.921986 | http://allrecipes.com/Recipe/Quinoa-Pudding
+ Quinoa Pudding| raisins | 1 | True | 3.921986 | http://allrecipes.com/Recipe/Quinoa-Pudding
+ Quinoa Pudding| lemon juice | 1 | True | 3.921986 | http://allrecipes.com/Recipe/Quinoa-Pudding
+ Quinoa Pudding| ground | 1 | True | 3.921986 | http://allrecipes.com/Recipe/Quinoa-Pudding
+ Quinoa Pudding| vanilla extract | 1 | True | 3.921986 | http://allrecipes.com/Recipe/Quinoa-Pudding
+ Mediterranean Quinoa Salad| chicken | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| quinoa | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| breasts into size pieces | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| onion | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| bell pepper | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| kalamata olives | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| feta cheese | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| parsley | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| chives | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| lemon juice | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Mediterranean Quinoa Salad| vinegar | 1 | True | 4.644809 | http://allrecipes.com/Recipe/Mediterranean-Quinoa-Salad
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| quinoa | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| kale torn into pieces | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| avocado | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| cucumber | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| bell pepper | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| onion | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| feta cheese | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| lemon juice | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| Dijon | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| sea | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Kale, Quinoa, and Avocado Salad with Lemon Dijon Vinaigrette| ground pepper | 1 | True | 4.817647 | http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette
+ Garlicky Quinoa and Garbanzo Bean Salad| quinoa | 1 | True | 4.31356 | http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad
+ Garlicky Quinoa and Garbanzo Bean Salad| garbanzo beans | 1 | True | 4.31356 | http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad
+ Garlicky Quinoa and Garbanzo Bean Salad| broccoli | 1 | True | 4.31356 | http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad
+ Garlicky Quinoa and Garbanzo Bean Salad| lemon juice | 1 | True | 4.31356 | http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad
+ Garlicky Quinoa and Garbanzo Bean Salad| mustard | 1 | True | 4.31356 | http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad
+ Garlicky Quinoa and Garbanzo Bean Salad| extra virgin olive oil | 1 | True | 4.31356 | http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad
+ Garlicky Quinoa and Garbanzo Bean Salad| salt pepper | 1 | True | 4.31356 | http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad
+ Cranberry and Cilantro Quinoa Salad| quinoa | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| bell pepper | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| yellow pepper | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| onion | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| curry powder | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| cilantro | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| lime | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| almonds | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| carrots | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| cranberries | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Cranberry and Cilantro Quinoa Salad| salt ground black pepper | 1 | True | 4.574803 | http://allrecipes.com/Recipe/Cranberry-and-Cilantro-Quinoa-Salad
+ Quinoa Veggie Salad with Zesty Vinaigrette| quinoa | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| wine vinegar | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| ground pepper | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| lemon juice | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| Dijon | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| canola oil | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| cucumbers | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| bell pepper | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| onion | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| tomatoes | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Quinoa Veggie Salad with Zesty Vinaigrette| black olives | 1 | True | 4.540541 | http://allrecipes.com/Recipe/Quinoa-Veggie-Salad-with-Zesty-Vinaigrette
+ Kale and Quinoa Salad| quinoa | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale and Quinoa Salad| kale into pieces | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale and Quinoa Salad| lemon juice | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale and Quinoa Salad| Dijon | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale and Quinoa Salad| clove | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale and Quinoa Salad| ground sea salt | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale and Quinoa Salad| pecans | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale and Quinoa Salad| currants | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale and Quinoa Salad| feta cheese | 1 | True | 4.715517 | http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad
+ Kale Salad with Pomegranate, Sunflower Seeds and Sliced Almonds| kale | 1 | True | 4.454545 | http://allrecipes.com/Recipe/Kale-Salad-with-Pomegranate-Sunflower-Seeds-and-Sliced-Almonds
+ Kale Salad with Pomegranate, Sunflower Seeds and Sliced Almonds| pomegranate seeds | 1 | True | 4.454545 | http://allrecipes.com/Recipe/Kale-Salad-with-Pomegranate-Sunflower-Seeds-and-Sliced-Almonds
+ Kale Salad with Pomegranate, Sunflower Seeds and Sliced Almonds| seeds | 1 | True | 4.454545 | http://allrecipes.com/Recipe/Kale-Salad-with-Pomegranate-Sunflower-Seeds-and-Sliced-Almonds
+ Kale Salad with Pomegranate, Sunflower Seeds and Sliced Almonds| almonds | 1 | True | 4.454545 | http://allrecipes.com/Recipe/Kale-Salad-with-Pomegranate-Sunflower-Seeds-and-Sliced-Almonds
+ Kale Salad with Pomegranate, Sunflower Seeds and Sliced Almonds| pepper rice vinegar | 1 | True | 4.454545 | http://allrecipes.com/Recipe/Kale-Salad-with-Pomegranate-Sunflower-Seeds-and-Sliced-Almonds
+ Kale Salad with Pomegranate, Sunflower Seeds and Sliced Almonds| vinegar | 1 | True | 4.454545 | http://allrecipes.com/Recipe/Kale-Salad-with-Pomegranate-Sunflower-Seeds-and-Sliced-Almonds
+ Kale Salad with Pomegranate, Sunflower Seeds and Sliced Almonds| extra virgin olive oil | 1 | True | 4.454545 | http://allrecipes.com/Recipe/Kale-Salad-with-Pomegranate-Sunflower-Seeds-and-Sliced-Almonds
+ Kale and Banana Smoothie| banana | 1 | True | 4.181102 | http://allrecipes.com/Recipe/Kale-and-Banana-Smoothie
+ Kale and Banana Smoothie| kale | 1 | True | 4.181102 | http://allrecipes.com/Recipe/Kale-and-Banana-Smoothie
+ Kale and Banana Smoothie| light soy milk | 1 | True | 4.181102 | http://allrecipes.com/Recipe/Kale-and-Banana-Smoothie
+ Kale and Banana Smoothie| flax seeds | 1 | True | 4.181102 | http://allrecipes.com/Recipe/Kale-and-Banana-Smoothie
+ Kale and Banana Smoothie| maple syrup | 1 | True | 4.181102 | http://allrecipes.com/Recipe/Kale-and-Banana-Smoothie
+ Strawberry Oatmeal Breakfast Smoothie| soy milk | 1 | True | 4.446949 | http://allrecipes.com/Recipe/Strawberry-Oatmeal-Breakfast-Smoothie
+ Strawberry Oatmeal Breakfast Smoothie| oats | 1 | True | 4.446949 | http://allrecipes.com/Recipe/Strawberry-Oatmeal-Breakfast-Smoothie
+ Strawberry Oatmeal Breakfast Smoothie| banana into chunks | 1 | True | 4.446949 | http://allrecipes.com/Recipe/Strawberry-Oatmeal-Breakfast-Smoothie
+ Strawberry Oatmeal Breakfast Smoothie| strawberries | 1 | True | 4.446949 | http://allrecipes.com/Recipe/Strawberry-Oatmeal-Breakfast-Smoothie
+ Strawberry Oatmeal Breakfast Smoothie| vanilla extract | 1 | True | 4.446949 | http://allrecipes.com/Recipe/Strawberry-Oatmeal-Breakfast-Smoothie
+ Strawberry Oatmeal Breakfast Smoothie| white sugar | 1 | True | 4.446949 | http://allrecipes.com/Recipe/Strawberry-Oatmeal-Breakfast-Smoothie
+ All-Around Good Smoothie| milk | 1 | True | 4.742382 | http://allrecipes.com/Recipe/All-Around-Good-Smoothie
+ All-Around Good Smoothie| plain yogurt | 1 | True | 4.742382 | http://allrecipes.com/Recipe/All-Around-Good-Smoothie
+ All-Around Good Smoothie| banana | 1 | True | 4.742382 | http://allrecipes.com/Recipe/All-Around-Good-Smoothie
+ All-Around Good Smoothie| supplement | 1 | True | 4.742382 | http://allrecipes.com/Recipe/All-Around-Good-Smoothie
+ All-Around Good Smoothie| flax | 1 | True | 4.742382 | http://allrecipes.com/Recipe/All-Around-Good-Smoothie
+ All-Around Good Smoothie| honey | 1 | True | 4.742382 | http://allrecipes.com/Recipe/All-Around-Good-Smoothie
+ All-Around Good Smoothie| strawberries | 1 | True | 4.742382 | http://allrecipes.com/Recipe/All-Around-Good-Smoothie
+ Groovy Green Smoothie| banana in chunks | 1 | True | 4.529032 | http://allrecipes.com/Recipe/Groovy-Green-Smoothie
+ Groovy Green Smoothie| grapes | 1 | True | 4.529032 | http://allrecipes.com/Recipe/Groovy-Green-Smoothie
+ Groovy Green Smoothie| vanilla | 1 | True | 4.529032 | http://allrecipes.com/Recipe/Groovy-Green-Smoothie
+ Groovy Green Smoothie| apple | 1 | True | 4.529032 | http://allrecipes.com/Recipe/Groovy-Green-Smoothie
+ Groovy Green Smoothie| spinach | 1 | True | 4.529032 | http://allrecipes.com/Recipe/Groovy-Green-Smoothie
+ Groovie Smoothie| bananas into chunks | 1 | True | 4.514493 | http://allrecipes.com/Recipe/Groovie-Smoothie
+ Groovie Smoothie| strawberries | 1 | True | 4.514493 | http://allrecipes.com/Recipe/Groovie-Smoothie
+ Groovie Smoothie| vanilla yogurt | 1 | True | 4.514493 | http://allrecipes.com/Recipe/Groovie-Smoothie
+ Groovie Smoothie| milk | 1 | True | 4.514493 | http://allrecipes.com/Recipe/Groovie-Smoothie
+ Gloomy Day Smoothie| mango into chunks | 1 | True | 4.57971 | http://allrecipes.com/Recipe/Gloomy-Day-Smoothie
+ Gloomy Day Smoothie| banana | 1 | True | 4.57971 | http://allrecipes.com/Recipe/Gloomy-Day-Smoothie
+ Gloomy Day Smoothie| orange juice | 1 | True | 4.57971 | http://allrecipes.com/Recipe/Gloomy-Day-Smoothie
+ Gloomy Day Smoothie| vanilla yogurt | 1 | True | 4.57971 | http://allrecipes.com/Recipe/Gloomy-Day-Smoothie
+ Fig Smoothie| bananas | 1 | True | 4.166667 | http://allrecipes.com/Recipe/Fig-Smoothie
+ Fig Smoothie| figs | 1 | True | 4.166667 | http://allrecipes.com/Recipe/Fig-Smoothie
+ Fig Smoothie| milk | 1 | True | 4.166667 | http://allrecipes.com/Recipe/Fig-Smoothie
+ Fig Smoothie| orange juice | 1 | True | 4.166667 | http://allrecipes.com/Recipe/Fig-Smoothie
+ Cherry Banana Smoothie| cherries | 1 | True | 4.444445 | http://allrecipes.com/Recipe/Cherry-Banana-Smoothie
+ Cherry Banana Smoothie| banana in chunks | 1 | True | 4.444445 | http://allrecipes.com/Recipe/Cherry-Banana-Smoothie
+ Cherry Banana Smoothie| lemon | 1 | True | 4.444445 | http://allrecipes.com/Recipe/Cherry-Banana-Smoothie
+ Cherry Banana Smoothie| yogurt as Fage | 1 | True | 4.444445 | http://allrecipes.com/Recipe/Cherry-Banana-Smoothie
+ Cherry Banana Smoothie| ice cubes | 1 | True | 4.444445 | http://allrecipes.com/Recipe/Cherry-Banana-Smoothie
+ Cherry Banana Smoothie| almond extract | 1 | True | 4.444445 | http://allrecipes.com/Recipe/Cherry-Banana-Smoothie
+ Peanut Butter Banana Smoothie| bananas into chunks | 1 | True | 4.523077 | http://allrecipes.com/Recipe/Peanut-Butter-Banana-Smoothie
+ Peanut Butter Banana Smoothie| milk | 1 | True | 4.523077 | http://allrecipes.com/Recipe/Peanut-Butter-Banana-Smoothie
+ Peanut Butter Banana Smoothie| peanut butter | 1 | True | 4.523077 | http://allrecipes.com/Recipe/Peanut-Butter-Banana-Smoothie
+ Peanut Butter Banana Smoothie| honey | 1 | True | 4.523077 | http://allrecipes.com/Recipe/Peanut-Butter-Banana-Smoothie
+ Peanut Butter Banana Smoothie| ice cubes | 1 | True | 4.523077 | http://allrecipes.com/Recipe/Peanut-Butter-Banana-Smoothie
+ Grilled Peanut Butter and Banana Sandwich| spray | 1 | True | 4.534413 | http://allrecipes.com/Recipe/Grilled-Peanut-Butter-and-Banana-Sandwich
+ Grilled Peanut Butter and Banana Sandwich| peanut butter | 1 | True | 4.534413 | http://allrecipes.com/Recipe/Grilled-Peanut-Butter-and-Banana-Sandwich
+ Grilled Peanut Butter and Banana Sandwich| whole bread | 1 | True | 4.534413 | http://allrecipes.com/Recipe/Grilled-Peanut-Butter-and-Banana-Sandwich
+ Grilled Peanut Butter and Banana Sandwich| banana | 1 | True | 4.534413 | http://allrecipes.com/Recipe/Grilled-Peanut-Butter-and-Banana-Sandwich
+ California Grilled Veggie Sandwich| mayonnaise | 1 | True | 4.814471 | http://allrecipes.com/Recipe/California-Grilled-Veggie-Sandwich
+ California Grilled Veggie Sandwich| lemon juice | 1 | True | 4.814471 | http://allrecipes.com/Recipe/California-Grilled-Veggie-Sandwich
+ California Grilled Veggie Sandwich| bell peppers | 1 | True | 4.814471 | http://allrecipes.com/Recipe/California-Grilled-Veggie-Sandwich
+ California Grilled Veggie Sandwich| zucchini | 1 | True | 4.814471 | http://allrecipes.com/Recipe/California-Grilled-Veggie-Sandwich
+ California Grilled Veggie Sandwich| onion | 1 | True | 4.814471 | http://allrecipes.com/Recipe/California-Grilled-Veggie-Sandwich
+ California Grilled Veggie Sandwich| yellow squash | 1 | True | 4.814471 | http://allrecipes.com/Recipe/California-Grilled-Veggie-Sandwich
+ California Grilled Veggie Sandwich| ( focaccia bread pieces split | 1 | True | 4.814471 | http://allrecipes.com/Recipe/California-Grilled-Veggie-Sandwich
+ California Grilled Veggie Sandwich| feta cheese | 1 | True | 4.814471 | http://allrecipes.com/Recipe/California-Grilled-Veggie-Sandwich
+ Firecracker Grilled Alaska Salmon| salmon | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Firecracker Grilled Alaska Salmon| peanut oil | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Firecracker Grilled Alaska Salmon| soy sauce | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Firecracker Grilled Alaska Salmon| vinegar | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Firecracker Grilled Alaska Salmon| onions | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Firecracker Grilled Alaska Salmon| brown sugar | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Firecracker Grilled Alaska Salmon| ground ginger | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Firecracker Grilled Alaska Salmon| pepper flakes | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Firecracker Grilled Alaska Salmon| sesame oil | 1 | True | 4.723502 | http://allrecipes.com/Recipe/Firecracker-Grilled-Alaska-Salmon
+ Lime-Marinated Grilled Salmon| lime juice | 1 | True | 4.206897 | http://allrecipes.com/Recipe/Lime-Marinated-Grilled-Salmon
+ Lime-Marinated Grilled Salmon| Dijon | 1 | True | 4.206897 | http://allrecipes.com/Recipe/Lime-Marinated-Grilled-Salmon
+ Lime-Marinated Grilled Salmon| ground ginger | 1 | True | 4.206897 | http://allrecipes.com/Recipe/Lime-Marinated-Grilled-Salmon
+ Lime-Marinated Grilled Salmon| powder | 1 | True | 4.206897 | http://allrecipes.com/Recipe/Lime-Marinated-Grilled-Salmon
+ Lime-Marinated Grilled Salmon| cayenne pepper | 1 | True | 4.206897 | http://allrecipes.com/Recipe/Lime-Marinated-Grilled-Salmon
+ Lime-Marinated Grilled Salmon| black pepper | 1 | True | 4.206897 | http://allrecipes.com/Recipe/Lime-Marinated-Grilled-Salmon
+ Lime-Marinated Grilled Salmon| salmon steaks | 1 | True | 4.206897 | http://allrecipes.com/Recipe/Lime-Marinated-Grilled-Salmon
+ Spicy Garlic Salmon| chile pepper | 1 | True | 4.385827 | http://allrecipes.com/Recipe/Spicy-Garlic-Salmon
+ Spicy Garlic Salmon| whole grain mustard | 1 | True | 4.385827 | http://allrecipes.com/Recipe/Spicy-Garlic-Salmon
+ Spicy Garlic Salmon| lime juice | 1 | True | 4.385827 | http://allrecipes.com/Recipe/Spicy-Garlic-Salmon
+ Spicy Garlic Salmon| sea | 1 | True | 4.385827 | http://allrecipes.com/Recipe/Spicy-Garlic-Salmon
+ Spicy Garlic Salmon| salmon | 1 | True | 4.385827 | http://allrecipes.com/Recipe/Spicy-Garlic-Salmon
+ Lemon Garlic Tilapia| tilapia fillets | 1 | True | 4.337073 | http://allrecipes.com/Recipe/Lemon-Garlic-Tilapia
+ Lemon Garlic Tilapia| lemon juice | 1 | True | 4.337073 | http://allrecipes.com/Recipe/Lemon-Garlic-Tilapia
+ Lemon Garlic Tilapia| butter | 1 | True | 4.337073 | http://allrecipes.com/Recipe/Lemon-Garlic-Tilapia
+ Lemon Garlic Tilapia| parsley flakes | 1 | True | 4.337073 | http://allrecipes.com/Recipe/Lemon-Garlic-Tilapia
+ Garlic Chicken| bread crumbs | 1 | True | 4.558928 | http://allrecipes.com/Recipe/Garlic-Chicken
+ Garlic Chicken| Parmesan cheese | 1 | True | 4.558928 | http://allrecipes.com/Recipe/Garlic-Chicken
+ Garlic Chicken| skinless boneless breast halves | 1 | True | 4.558928 | http://allrecipes.com/Recipe/Garlic-Chicken
+ RamJam Chicken| soy sauce | 1 | True | 4.52322 | http://allrecipes.com/Recipe/RamJam-Chicken
+ RamJam Chicken| wine | 1 | True | 4.52322 | http://allrecipes.com/Recipe/RamJam-Chicken
+ RamJam Chicken| lemon juice | 1 | True | 4.52322 | http://allrecipes.com/Recipe/RamJam-Chicken
+ RamJam Chicken| seasoning | 1 | True | 4.52322 | http://allrecipes.com/Recipe/RamJam-Chicken
+ RamJam Chicken| ginger root | 1 | True | 4.52322 | http://allrecipes.com/Recipe/RamJam-Chicken
+ RamJam Chicken| onion powder | 1 | True | 4.52322 | http://allrecipes.com/Recipe/RamJam-Chicken
+ RamJam Chicken| ground pepper | 1 | True | 4.52322 | http://allrecipes.com/Recipe/RamJam-Chicken
+ RamJam Chicken| skinless boneless breast halves into strips | 1 | True | 4.52322 | http://allrecipes.com/Recipe/RamJam-Chicken
+ Yummy Honey Chicken Kabobs| honey | 1 | True | 4.686257 | http://allrecipes.com/Recipe/Yummy-Honey-Chicken-Kabobs
+ Yummy Honey Chicken Kabobs| soy sauce | 1 | True | 4.686257 | http://allrecipes.com/Recipe/Yummy-Honey-Chicken-Kabobs
+ Yummy Honey Chicken Kabobs| ground pepper | 1 | True | 4.686257 | http://allrecipes.com/Recipe/Yummy-Honey-Chicken-Kabobs
+ Yummy Honey Chicken Kabobs| skinless boneless breast halves into inch cubes | 1 | True | 4.686257 | http://allrecipes.com/Recipe/Yummy-Honey-Chicken-Kabobs
+ Yummy Honey Chicken Kabobs| onions into inch pieces | 1 | True | 4.686257 | http://allrecipes.com/Recipe/Yummy-Honey-Chicken-Kabobs
+ Yummy Honey Chicken Kabobs| bell peppers into inch pieces | 1 | True | 4.686257 | http://allrecipes.com/Recipe/Yummy-Honey-Chicken-Kabobs
+ Yummy Honey Chicken Kabobs| skewers | 1 | True | 4.686257 | http://allrecipes.com/Recipe/Yummy-Honey-Chicken-Kabobs
+ Grandma's Chicken Chardon| skinless boneless breast halves | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| egg | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| salt pepper | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| powder | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| bread crumbs | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| Parmesan cheese | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| mushrooms | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| butter | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| lemon juice | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Grandma's Chicken Chardon| parsley | 1 | True | 4.630769 | http://allrecipes.com/Recipe/Grandmas-Chicken-Chardon
+ Easy Olive Martini Chicken| skinless boneless breast halves | 1 | True | 4.469388 | http://allrecipes.com/Recipe/Easy-Olive-Martini-Chicken
+ Easy Olive Martini Chicken| butter | 1 | True | 4.469388 | http://allrecipes.com/Recipe/Easy-Olive-Martini-Chicken
+ Easy Olive Martini Chicken| gin | 1 | True | 4.469388 | http://allrecipes.com/Recipe/Easy-Olive-Martini-Chicken
+ Easy Olive Martini Chicken| vermouth | 1 | True | 4.469388 | http://allrecipes.com/Recipe/Easy-Olive-Martini-Chicken
+ Easy Olive Martini Chicken| lemon juice | 1 | True | 4.469388 | http://allrecipes.com/Recipe/Easy-Olive-Martini-Chicken
+ Easy Olive Martini Chicken| olives | 1 | True | 4.469388 | http://allrecipes.com/Recipe/Easy-Olive-Martini-Chicken
+ Baked Lemon Chicken with Mushroom Sauce| skinless boneless breast halves | 1 | True | 4.278572 | http://allrecipes.com/Recipe/Baked-Lemon-Chicken-with-Mushroom-Sauce
+ Baked Lemon Chicken with Mushroom Sauce| lemon | 1 | True | 4.278572 | http://allrecipes.com/Recipe/Baked-Lemon-Chicken-with-Mushroom-Sauce
+ Baked Lemon Chicken with Mushroom Sauce| butter | 1 | True | 4.278572 | http://allrecipes.com/Recipe/Baked-Lemon-Chicken-with-Mushroom-Sauce
+ Baked Lemon Chicken with Mushroom Sauce| mushrooms | 1 | True | 4.278572 | http://allrecipes.com/Recipe/Baked-Lemon-Chicken-with-Mushroom-Sauce
+ Baked Lemon Chicken with Mushroom Sauce| chicken broth | 1 | True | 4.278572 | http://allrecipes.com/Recipe/Baked-Lemon-Chicken-with-Mushroom-Sauce
+ Baked Lemon Chicken with Mushroom Sauce| parsley | 1 | True | 4.278572 | http://allrecipes.com/Recipe/Baked-Lemon-Chicken-with-Mushroom-Sauce
+ Delicious Baked Chicken| bone-in breast halves with skin | 1 | True | 3.701863 | http://allrecipes.com/Recipe/Delicious-Baked-Chicken
+ Delicious Baked Chicken| powder | 1 | True | 3.701863 | http://allrecipes.com/Recipe/Delicious-Baked-Chicken
+ Delicious Baked Chicken| salt pepper | 1 | True | 3.701863 | http://allrecipes.com/Recipe/Delicious-Baked-Chicken
+ Delicious Baked Chicken| Worcestershire sauce | 1 | True | 3.701863 | http://allrecipes.com/Recipe/Delicious-Baked-Chicken
+ Maria's Green Chicken| boneless skinless breast halves | 1 | True | 3.142857 | http://allrecipes.com/Recipe/Marias-Green-Chicken
+ Maria's Green Chicken| onion | 1 | True | 3.142857 | http://allrecipes.com/Recipe/Marias-Green-Chicken
+ Maria's Green Chicken| bell pepper | 1 | True | 3.142857 | http://allrecipes.com/Recipe/Marias-Green-Chicken
+ Maria's Green Chicken| butter | 1 | True | 3.142857 | http://allrecipes.com/Recipe/Marias-Green-Chicken
+ Maria's Green Chicken| ground | 1 | True | 3.142857 | http://allrecipes.com/Recipe/Marias-Green-Chicken
+ Maria's Green Chicken| salt pepper | 1 | True | 3.142857 | http://allrecipes.com/Recipe/Marias-Green-Chicken
+ One Dish Bourbon Chicken| butter | 1 | True | 3.617647 | http://allrecipes.com/Recipe/One-Dish-Bourbon-Chicken
+ One Dish Bourbon Chicken| onion | 1 | True | 3.617647 | http://allrecipes.com/Recipe/One-Dish-Bourbon-Chicken
+ One Dish Bourbon Chicken| skinless boneless breasts | 1 | True | 3.617647 | http://allrecipes.com/Recipe/One-Dish-Bourbon-Chicken
+ One Dish Bourbon Chicken| chicken stock | 1 | True | 3.617647 | http://allrecipes.com/Recipe/One-Dish-Bourbon-Chicken
+ One Dish Bourbon Chicken| bourbon | 1 | True | 3.617647 | http://allrecipes.com/Recipe/One-Dish-Bourbon-Chicken
+ One Dish Bourbon Chicken| salt pepper | 1 | True | 3.617647 | http://allrecipes.com/Recipe/One-Dish-Bourbon-Chicken

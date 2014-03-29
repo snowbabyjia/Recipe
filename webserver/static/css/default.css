@@ -35,6 +35,7 @@ a.prev_button {
 	border: 1px solid #888888;
 	margin-top: 10px;	
 	box-shadow: 2px 2px 2px #888888;
+	pointer-events: all;
 	-webkit-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* Saf3.2+, Chrome */
     -moz-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* FF4+ */
     -ms-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* IE10 */
