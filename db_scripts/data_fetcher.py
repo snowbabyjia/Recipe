@@ -83,9 +83,9 @@ if __name__ == "__main__":
         for j in i['ingredients']:
             if not j in not_inc:
                 if j in not_req:
-                    output_file.write(" "+ i['recipe_name'] + "| "+ j + " | 1 | False | str(i['rating']) | " + i['url'] + "\n")
+                    output_file.write(" "+ i['recipe_name'] + "| "+ j + " | 1 | False | "+ str(i['rating'])+" | " + i['url'] + "\n")
                 else:
-                     output_file.write(" "+ i['recipe_name'] + "| "+ j + " | 1 | True | str(i['rating']) | " + i['url'] + "\n")
+                     output_file.write(" "+ i['recipe_name'] + "| "+ j + " | 1 | True | "+str(i['rating'])+" | " + i['url'] + "\n")
 
     output_file.close()
     
