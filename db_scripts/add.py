@@ -27,7 +27,7 @@ for line in data_file:
     
         data["rating"] = float(values[4])
         data["url"] = values[5]
-
+		
         if not db.posts.find_one(data):
             db.posts.insert(data)
 

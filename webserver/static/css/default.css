@@ -1,16 +1,23 @@
+
 .btn{
-	background: gray
+	background: white;
 	margin-bottom:0;
 	font-weight:400;
 	text-align:center;
-	border:1px solid ;
+	border: 1px solid #888888;
+	font-family: fantasy;
 	padding:6px 12px;
 	font-size:14px;
 	line-height:1.42857143;
 	border-radius:4px;
+	-webkit-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* Saf3.2+, Chrome */
+    -moz-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* FF4+ */
+    -ms-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* IE10 */
+    -o-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* Opera 10.5+ */
+    transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;
 }
 .btn:hover {
-	background: white;
+	background: #FFD204;
 }
 a.prev_button {
 	position: absolute;
@@ -25,8 +32,9 @@ a.prev_button {
 	width: 90%;
 	height: 60px;
 	background: white;
-	border: 1px solid black;
+	border: 1px solid #888888;
 	margin-top: 10px;	
+	box-shadow: 2px 2px 2px #888888;
 	-webkit-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* Saf3.2+, Chrome */
     -moz-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* FF4+ */
     -ms-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* IE10 */
