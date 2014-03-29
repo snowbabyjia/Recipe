@@ -20,7 +20,7 @@ def set_up(client):
 "FIXME: query and return all ingredients."
 def query_ings(recipe_collection):
 	# print recipe_collection.distinct("ingredient")
-	return recipe_collection.distinct("ingredient")
+	return sorted(ecipe_collection.distinct("ingredient"))
 	
 
 def query(recipe_collection, ings):
