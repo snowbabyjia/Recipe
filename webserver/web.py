@@ -17,7 +17,7 @@ def cook():
 	ings_raw = request.args.get('ings', 0, type=str)
 	ings = ings_raw.split('_')
 	"create response recipes"
-	response = query.query(query.set_up(client), ings)
+	response = query.recommend_exact(query.collecting(query.set_up(client), ings))
 	print 'response = ', response
 	if response == []:
 		recipes = links = scores = []
@@ -25,6 +25,19 @@ def cook():
 		[recipes, links, scores] = zip(*response)
 	return jsonify(recipes=recipes, links=links, scores=scores)
 
+@app.route('/_cook_with_missing')
+def cook_with_missing():
+	"parsing arguments"
+	ings_raw = request.args.get('ings', 0, type=str)
+	ings = ings_raw.split('_')
+	"create response recipes"
+	response = query.recommend_with_missing(query.collecting(query.set_up(client), ings))
+	print 'response = ', response
+	if response == []:
+		recipes = links = scores = []
+	else: 
+		[recipes, links, scores] = zip(*response)
+	return jsonify(recipes=recipes, links=links, scores=scores)
 if __name__ == "__main__":
 	client = query.connect()
 	app.run(debug = True)

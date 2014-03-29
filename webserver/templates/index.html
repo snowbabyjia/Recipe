@@ -55,6 +55,7 @@
 					        </div>
 					        <br>
 						    <button type="button" class="btn" id='cook'>Cook!</button> 
+						    <button type="button" class="btn" id='cook_with_missing'>Maybe with something more?</button> 
 						 <br>
 						
 					</div>
@@ -205,6 +206,34 @@
 	      return false;
 	    });
 	    
+	    $('#cook_with_missing').bind('click', function() {
+          str = '';
+	      choices = document.getElementsByClassName('search-choice');
+   	      for(var i = 0; i < choices.length; i++) {
+   	      	  if(i > 0) str += '_'
+	          str += choices[i].textContent;
+	      }
+	      $.getJSON('/_cook_with_missing', {
+	        ings: str,
+	      }, function(data) {
+	      	$('#next_page_button').click();
+	      	var n = data.links.length;
+	      	var $rf = $('#recipe_flow');
+	      	$rf.html('');
+	      	for(var i = 0; i < n; i++) {
+	      		if(data.links[i].indexOf("http") == -1) {
+		      		data.links[i] = "http://"+data.links[i];
+	      		}
+	      		console.log("<div class='recipe' onclick='updateRecipeUrl(\""+data.links[i]+"\")'>Recipe: <a href="+data.links[i]
+		      							+">"+data.recipes[i]+"</a><br>"+'<div class="fb-comments" data-href="'+data.links[i]+'" data-numposts="5" data-colorscheme="light"></div></div>');
+		      	$rf.append("<div class='recipe' onclick='updateRecipeUrl(\""+data.links[i]+"\")'>Recipe: <a href="+data.links[i]
+		      							+">"+data.recipes[i]+"</a><br>"
+		      							+'<iframe src="//www.facebook.com/plugins/like.php?href='+data.links[i]+'&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>'
+		      							+'</div>');
+	      	} 
+	      });
+	      return false;
+	    });
 	});
 
 	  </script>
