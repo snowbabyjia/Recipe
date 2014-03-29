@@ -46,17 +46,16 @@
 					<div align="right">
 						    <p style="font-size:35px;">Ingredients</p>
 					        <div class="side-by-side clearfix">
-					          <select data-placeholder="Choose Your Ingredients" multiple style="width:350px;font-family: fantasy;" class="chosen-select-deselect" tabindex="12">
-					            <option value=""></option>
-					            {% for item in ings %}
-								<option id="{{item}}" class="ings_form"><a href="{{ item.href }}">{{ item }}</a></option>
-							    {% endfor %}
+					        
+					          <select data-placeholder="Choose Your Ingredients" multiple style="width:350px;font-family: fantasy;" class="chosen-select-deselect" tabindex="12" id="ings">
 					          </select>
+					          
+					          
 					        </div>
 					        <br>
 						    <button type="button" class="btn" id='cook'>Cook!</button> 
 						 <br>
-						
+						 
 					</div>
 					<div>
 						<a class="prev_button" onclick="$('#prev_page_button').click()"></a><br>
@@ -138,7 +137,15 @@
 			});	
 
         </script>
-        
+        <script>
+         $.getJSON('/_ings', {}, function(data) {
+			 for(var i = 0; i < data.ings.length; i++) {
+				 item = data.ings[i];
+				 $('#ings').append('<option>'+item+'</option>');
+			 }
+			 $('#ings').trigger('chosen:updated');
+	      });
+      </script>
 	    <!-- Include all compiled plugins (below), or include individual files as needed -->
 	    <script src="static/js/bootstrap.min.js"></script>
 	    <script src="static/js/chosen.jquery.js" type="text/javascript"></script>

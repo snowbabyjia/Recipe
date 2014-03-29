@@ -8,8 +8,11 @@ app = Flask(__name__)
 
 @app.route('/')
 def main():
-	print query.query_ings(query.set_up(client))
 	return render_template("index.html", ings=query.query_ings(query.set_up(client)))
+
+@app.route('/_ings')
+def ings():
+	return jsonify(ings=query.query_ings(query.set_up(client)))
 
 @app.route('/_cook')
 def cook():
