@@ -30,11 +30,14 @@ a.prev_button {
 }
 .recipe {
 	width: 90%;
-	height: 60px;
+	height: 100px;
+	text-align: left;
 	background: white;
 	border: 1px solid #888888;
 	margin-top: 10px;	
-	box-shadow: 2px 2px 2px #888888;
+	box-shadow: 1px 1px 1px #888888;
+	font-family: fantasy;
+	font-size:15 px;
 	pointer-events: all;
 	-webkit-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* Saf3.2+, Chrome */
     -moz-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* FF4+ */
@@ -42,6 +45,16 @@ a.prev_button {
     -o-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* Opera 10.5+ */
     transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;
 }
+.recipe p {
+	font-family: sans-serif;
+	font-size:20 px;
+}
+.facebookframe {
+	width: 100%;
+	display: block;
+	text-align: right;
+}
+
 .recipe:hover {
 	background-color: #FFD204;
 }
