@@ -19,7 +19,8 @@ def set_up(client):
 
 "FIXME: query and return all ingredients."
 def query_ings(recipe_collection):
-	return recipe_collection.distinct("ingredients")
+	# print recipe_collection.distinct("ingredient")
+	return recipe_collection.distinct("ingredient")
 	
 
 def query(recipe_collection, ings):
@@ -79,7 +80,8 @@ def query(recipe_collection, ings):
 
 if __name__ == "__main__":
 	client = connect()
-	ing = ["I1", "I3"]
+	print query_ings(set_up(client))
+	ing = ["Yeast", "Water"]
 	print query(set_up(client), ing)
 	client.close()
 
