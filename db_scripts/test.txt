@@ -38,4 +38,3 @@ Fudge Truffle Cheesecake | Sugar  | 6 | True | 4.5 | http://allrecipes.com/Recip
 Fudge Truffle Cheesecake | Cocoa powder  | 6 | True | 4.5 | http://allrecipes.com/Recipe/Fudge-Truffle-Cheesecake/Detail.aspx
 Fudge Truffle Cheesecake | Butter | 6 | True | 4.5 | http://allrecipes.com/Recipe/Fudge-Truffle-Cheesecake/Detail.aspx
 Fudge Truffle Cheesecake | Condensed milk | 2 | False | 4.5 | http://allrecipes.com/Recipe/Fudge-Truffle-Cheesecake/Detail.aspx
-
