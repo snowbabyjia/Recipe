@@ -16,6 +16,10 @@ def set_up(client):
 
 	return recipe_collection
 
+"FIXME: query and return all ingredients."
+def query_ings(recipe_collection):
+	return	
+
 def query(recipe_collection, ings):
 	recipe_has_ing = {}
 	recipe_require_ing = {}
@@ -72,10 +76,12 @@ def query(recipe_collection, ings):
 	# TODO: sort the recommandation
 	return sorted(output, key=output.get, reverse=True)
 
-client = connect()
-ing = ["I1", "I3"]
-print query(set_up(client), ing)
-client.close()
+if __name__ == "__main__":
+	client = connect()
+	ing = ["I1", "I3"]
+	print query(set_up(client), ing)
+	client.close()
+
 
 
 
