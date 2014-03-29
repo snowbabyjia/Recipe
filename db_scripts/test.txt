@@ -15,3 +15,4 @@ Pizza | Mozerella | 10  | True  |  5 | http://www.simplyrecipes.com/recipes/home
 Pizza | Onions | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
 Pizza | Peppers | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
 Pizza | Basil | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+Cookies | Flour | 10 | True | 100 | www
