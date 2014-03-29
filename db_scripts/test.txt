@@ -15,4 +15,31 @@ Pizza | Mozerella | 10  | True  |  5 | http://www.simplyrecipes.com/recipes/home
 Pizza | Onions | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
 Pizza | Peppers | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
 Pizza | Basil | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+<<<<<<< HEAD
 Cookies | Flour | 10 | True | 100 | www
+=======
+Apricot Chicken | Apricots | 10 | True | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
+Apricot Chicken | Vinegar | 10 | False | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
+Apricot Chicken | Chicken | 10 | True | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
+Apricot Chicken | Unsalted butter | 10 | True | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
+Apricot Chicken | Onions | 10 | True | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
+Apricot Chicken | Cinnamon | 1 | False | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
+Barbecued Chicken on the grill | Chicken | 7 | True | 4.5 | http://www.simplyrecipes.com/recipes/barbecued_chicken_on_the_grill/
+Barbecued Chicken on the grill | Barbeque sauce | 7 | True | 4.5 | http://www.simplyrecipes.com/recipes/barbecued_chicken_on_the_grill/
+Barbecued Chicken on the grill | Vegetable oil | 7 | True | 4.5 | http://www.simplyrecipes.com/recipes/barbecued_chicken_on_the_grill/
+Buffalo Wings | Chicken  | 7 | True | 4 | http://www.simplyrecipes.com/recipes/buffalo_wings/
+Buffalo Wings | Butter | 5 | True | 4 | http://www.simplyrecipes.com/recipes/buffalo_wings/
+Buffalo Wings | Hot pepper sauce  | 6 | False | 4 | http://www.simplyrecipes.com/recipes/buffalo_wings/
+Buffalo Wings | Paprika  | 2 | False | 4 | http://www.simplyrecipes.com/recipes/buffalo_wings/
+Cheesecake Supreme | Graham cracker crumbs  | 2 | False | 5 | http://allrecipes.com/Recipe/Cheesecake-Supreme/Detail.aspx
+Cheesecake Supreme | Eggs | 10 | True | 5 | http://allrecipes.com/Recipe/Cheesecake-Supreme/Detail.aspx
+Cheesecake Supreme | Sugar  | 8 | True | 5 | http://allrecipes.com/Recipe/Cheesecake-Supreme/Detail.aspx
+Cheesecake Supreme | Butter  | 6 | True | 5 | http://allrecipes.com/Recipe/Cheesecake-Supreme/Detail.aspx
+Cheesecake Supreme | Whipped cream  | 6 | False | 5 | http://allrecipes.com/Recipe/Cheesecake-Supreme/Detail.aspx
+Fudge Truffle Cheesecake | Vanilla wafer crumbs  | 6 | True | 4.5 | http://allrecipes.com/Recipe/Fudge-Truffle-Cheesecake/Detail.aspx
+Fudge Truffle Cheesecake | Sugar  | 6 | True | 4.5 | http://allrecipes.com/Recipe/Fudge-Truffle-Cheesecake/Detail.aspx
+Fudge Truffle Cheesecake | Cocoa powder  | 6 | True | 4.5 | http://allrecipes.com/Recipe/Fudge-Truffle-Cheesecake/Detail.aspx
+Fudge Truffle Cheesecake | Butter | 6 | True | 4.5 | http://allrecipes.com/Recipe/Fudge-Truffle-Cheesecake/Detail.aspx
+Fudge Truffle Cheesecake | Condensed milk | 2 | False | 4.5 | http://allrecipes.com/Recipe/Fudge-Truffle-Cheesecake/Detail.aspx
+
+>>>>>>> 2c5d5dedb91798254b7505a46cc16ec45a08acf5
