@@ -5,20 +5,22 @@ def connect():
 	return client
 
 def set_up(client):
-	db = client.db
-	db.recipe.drop()
-	recipe_collection = db.recipe
-	recipe_collection.insert({"recipe_name":"R1", "ingredient":"I1", "weight":1, "req":True, "rating": 100, "url":"www.google.com"})
-	recipe_collection.insert({"recipe_name":"R1", "ingredient":"I2", "weight":2, "req":False, "rating": 100, "url":"www.google.com"})
-	recipe_collection.insert({"recipe_name":"R2", "ingredient":"I1", "weight":2, "req":False, "rating": 20, "url":"www.facebook.com"})
-	recipe_collection.insert({"recipe_name":"R2", "ingredient":"I3", "weight":3, "req":True, "rating": 20, "url":"www.facebook.com"})
-	recipe_collection.insert({"recipe_name":"R2", "ingredient":"I4", "weight":4, "req":False, "rating": 20, "url":"www.facebook.com"})
+	# db = client.db
+	# db.recipe.drop()
+	# recipe_collection = db.recipe
+	# recipe_collection.insert({"recipe_name":"R1", "ingredient":"I1", "weight":1, "req":True, "rating": 100, "url":"www.google.com"})
+	# recipe_collection.insert({"recipe_name":"R1", "ingredient":"I2", "weight":2, "req":False, "rating": 100, "url":"www.google.com"})
+	# recipe_collection.insert({"recipe_name":"R2", "ingredient":"I1", "weight":2, "req":False, "rating": 20, "url":"www.facebook.com"})
+	# recipe_collection.insert({"recipe_name":"R2", "ingredient":"I3", "weight":3, "req":True, "rating": 20, "url":"www.facebook.com"})
+	# recipe_collection.insert({"recipe_name":"R2", "ingredient":"I4", "weight":4, "req":False, "rating": 20, "url":"www.facebook.com"})
 
-	return recipe_collection
+	# return recipe_collection
+	return client.recipes.posts
 
 "FIXME: query and return all ingredients."
 def query_ings(recipe_collection):
-	return	
+	return recipe_collection.distinct("ingredients")
+	
 
 def query(recipe_collection, ings):
 	recipe_has_ing = {}
@@ -46,7 +48,6 @@ def query(recipe_collection, ings):
 			if not recipe_require_ing.has_key(key):
 				# the value is a cursor object
 				recipe_require_ing[key] = recipe_collection.find({"recipe_name": key})
-	
 	# Update the ratings based on if an optional/required ing is present for each candidate recipe
 	for candidate in recommandation.keys():
 		total_weight = 0 # this is the total weight of ingredients of this recipe. Used for normalize
@@ -81,7 +82,6 @@ if __name__ == "__main__":
 	ing = ["I1", "I3"]
 	print query(set_up(client), ing)
 	client.close()
-
 
 
 

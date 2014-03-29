@@ -1,0 +1,38 @@
+.btn{
+	background: gray
+	margin-bottom:0;
+	font-weight:400;
+	text-align:center;
+	border:1px solid ;
+	padding:6px 12px;
+	font-size:14px;
+	line-height:1.42857143;
+	border-radius:4px;
+}
+.btn:hover {
+	background: white;
+}
+a.prev_button {
+	position: absolute;
+	width: 41px;
+	height: 40px;
+	cursor: pointer;
+	margin-top: -20px;
+	top: 10%;
+	background: transparent url(../images/buttons.png) no-repeat 0px -40px;
+}
+.recipe {
+	width: 90%;
+	height: 60px;
+	background: white;
+	border: 1px solid black;
+	margin-top: 10px;	
+	-webkit-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* Saf3.2+, Chrome */
+    -moz-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* FF4+ */
+    -ms-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* IE10 */
+    -o-transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;  /* Opera 10.5+ */
+    transition: background-color 0.2s, margin-top 0.2s, margin-bottom 0.2s;
+}
+.recipe:hover {
+	background-color: #FFD204;
+}

@@ -15,6 +15,9 @@ Pizza | Mozerella | 10  | True  |  5 | http://www.simplyrecipes.com/recipes/home
 Pizza | Onions | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
 Pizza | Peppers | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
 Pizza | Basil | 3  | False  |  5 | http://www.simplyrecipes.com/recipes/homemade_pizza/
+<<<<<<< HEAD
+Cookies | Flour | 10 | True | 100 | www
+=======
 Apricot Chicken | Apricots | 10 | True | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
 Apricot Chicken | Vinegar | 10 | False | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
 Apricot Chicken | Chicken | 10 | True | 3.3 | http://www.simplyrecipes.com/recipes/apricot_chicken/
