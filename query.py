@@ -1,4 +1,5 @@
 from pymongo import MongoClient
+import urllib2
 
 def connect():
 	client = MongoClient()
@@ -106,6 +107,44 @@ def recommend_with_missing((recipe_has_ing, recipe_require_ing, recommendation))
 
 	# TODO: sort the recommendation
 	return sorted(output, key=output.get, reverse=True)
+
+
+def find_inf(TEMPLATE, html):
+    index = 0
+    s = html.find(TEMPLATE, index)
+    data = []
+    while s != -1 :
+        key = ""
+        s += len(TEMPLATE)
+        i = 0
+        while html[s+i] != '<' and html[s+i] != '"' and html[s+i] != '/':
+            key += html[s+i]
+            i+=1
+        data.append(key)
+        index = s+1
+        s = html.find(TEMPLATE, index)
+    return data
+
+def page_info( url):
+        response = urllib2.urlopen(url)
+        html = response.read()
+        data = {}
+        data['recipe-name'] = find_inf('<h1 id="itemTitle" class="plaincharacterwrap fn" itemprop="name">', html)[0]
+        data['ingredients'] =  find_inf('<span id="lblIngName" class="ingredient-name">', html)
+        first = html.find(".jpg")
+        while html[first] != '"':
+                first -= 1
+        first+=1
+        url_image = ""
+        while html[first] != '"':
+                url_image += html[first]
+                first += 1
+        data['image'] = url_image
+        data['description'] = find_inf('<li><span class="plaincharacterwrap break">')
+        
+        return data
+
+
 
 if __name__ == "__main__":
 	client = connect()
