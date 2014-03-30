@@ -125,23 +125,25 @@ def find_inf(TEMPLATE, html):
         s = html.find(TEMPLATE, index)
     return data
 
-def page_info( url):
+def page_info(url):
         response = urllib2.urlopen(url)
-        html = response.read()
+        html = response.read().decode('utf-8')
         data = {}
-        data['recipe-name'] = find_inf('<h1 id="itemTitle" class="plaincharacterwrap fn" itemprop="name">', html)[0]
         data['ingredients'] =  find_inf('<span id="lblIngName" class="ingredient-name">', html)
         first = html.find(".jpg")
+        print html[:first]
+        
         while html[first] != '"':
                 first -= 1
         first+=1
         url_image = ""
         while html[first] != '"':
-                url_image += html[first]
+                url_image += str(html[first])
                 first += 1
+                print first, html[first]
+        # url_image = url_image[:len(url_image)-1]
         data['image'] = url_image
-        data['description'] = find_inf('<li><span class="plaincharacterwrap break">')
-        
+        data['description'] = find_inf('<li><span class="plaincharacterwrap break">', html)
         return data
 
 

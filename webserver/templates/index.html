@@ -187,6 +187,8 @@
          $.getJSON('/_ings', {}, function(data) {
 			 for(var i = 0; i < data.ings.length; i++) {
 				 item = data.ings[i];
+				 if(item.indexOf('%') != -1 || item.indexOf('(') != -1) 
+				 	continue;
 				 $('#ings').append('<option>'+item+'</option>');
 			 }
 			 $('#ings').trigger('chosen:updated');
@@ -228,11 +230,11 @@
 		  	var $re = $('#recipe_embed');
 		  	$.getJSON('_recipe_clean', {url: curl,},
 		  		function(data) {
-		  			header = '<div class="recipe_title">'+name+'</div>'+'<br><iframe src="//www.facebook.com/plugins/like.php?href='+curl+'&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>';
+		  			header = '<div class="recipe_title">'+name+'</div>'+'<br><iframe src="//www.facebook.com/plugins/like.php?href='+curl+'&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe><br><div><p>Ingredients: '+data.ings+'</p></div>';
 		  			if(data.image_url == null)
 		  				$re.html(header+data.content);
 		  			else
-		  				$re.html(header+'<img src='+data.image_url+'></img>'+data.content);
+		  				$re.html(header+'<img src='+data.image_url+'></img><br>'+data.content);
 		  		});
 	      	/*
 $re.html('<embed src='+url+' width="100%;" height="400px;"> </embed><div class="fb-like" data-href="'+
@@ -250,8 +252,9 @@ $re.html('<embed src='+url+' width="100%;" height="400px;"> </embed><div class="
 	          str += choices[i].textContent;
 	      }
 	      $.getJSON('/_cook', {
-	        ings: str, uid: user_id
+	        ings: str
 	      }, function(data) {
+	      	console.log('hi');
 	      	$('#next_page_button').click();
 	      	var n = data.links.length;
 	      	var $rf = $('#recipe_flow');
