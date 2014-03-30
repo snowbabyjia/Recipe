@@ -254,12 +254,12 @@ $re.html('<embed src='+url+' width="100%;" height="400px;"> </embed><div class="
 	      $.getJSON('/_cook', {
 	        ings: str
 	      }, function(data) {
-	      	$('#next_page_button').click();
 	      	var n = data.links.length;
 	      	if(n == 0) {
 	      		$('#cook_with_missing').click();
 	  			return;
 	      	}
+	      	$('#next_page_button').click();
 	      	var $rf = $('#recipe_flow');
 	      	$rf.html('');
 	      	for(var i = 0; i < n; i++) {
