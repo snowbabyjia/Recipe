@@ -20,6 +20,7 @@ def ings():
 def cook():
 	"parsing arguments"
 	ings_raw = request.args.get('ings', 0, type=str)
+	user_id = request.args.get('uid', 0, type=int)
 	ings = ings_raw.split('_')
 	"create response recipes"
 	response = query.recommend_exact(query.collecting(query.set_up(client), ings))

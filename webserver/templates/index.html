@@ -46,11 +46,18 @@
 		  FB.Event.subscribe('auth.authResponseChange', function(response) {
 		    if (response.status === 'connected') {
 		      testAPI();
-		    } else if (response.status === 'not_authorized') {
-		      FB.login();
 		    } else {
-		      FB.login();
+		      FB.login(function(response) {
+				    if (response.authResponse) {
+				        FB.api('/me', function(response) {
+					      user_id = response.id;
+					    });
+				    } else {
+				        // The person cancelled the login dialog
+				    }
+			   });
 		    }
+		    
 		  });
 		  };
 		  // Load the SDK asynchronously
@@ -216,15 +223,16 @@
 			$('#recipe_embed').html('');
 		}
 		 
-		var updateRecipeUrl = function(curl) {
+		var updateRecipeUrl = function(name, curl) {
 		    console.log(curl);
 		  	var $re = $('#recipe_embed');
 		  	$.getJSON('_recipe_clean', {url: curl,},
 		  		function(data) {
+		  			header = '<div class="recipe_title">'+name+'</div>'+'<br><iframe src="//www.facebook.com/plugins/like.php?href='+curl+'&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>';
 		  			if(data.image_url == null)
-		  				$re.html(data.content);
+		  				$re.html(header+data.content);
 		  			else
-		  				$re.html('<img src='+data.image_url+'></img>'+data.content);
+		  				$re.html(header+'<img src='+data.image_url+'></img>'+data.content);
 		  		});
 	      	/*
 $re.html('<embed src='+url+' width="100%;" height="400px;"> </embed><div class="fb-like" data-href="'+
@@ -232,7 +240,7 @@ $re.html('<embed src='+url+' width="100%;" height="400px;"> </embed><div class="
 */
 /* 		  	fbroot(document, 'script', 'facebook-jssdk'); */
 	    }
-	      
+	   	   
 	   $(function() {
 	    $('#cook').bind('click', function() {
           str = '';
@@ -242,7 +250,7 @@ $re.html('<embed src='+url+' width="100%;" height="400px;"> </embed><div class="
 	          str += choices[i].textContent;
 	      }
 	      $.getJSON('/_cook', {
-	        ings: str,
+	        ings: str, uid: user_id
 	      }, function(data) {
 	      	$('#next_page_button').click();
 	      	var n = data.links.length;
@@ -252,9 +260,7 @@ $re.html('<embed src='+url+' width="100%;" height="400px;"> </embed><div class="
 	      		if(data.links[i].indexOf("http") == -1) {
 		      		data.links[i] = "http://"+data.links[i];
 	      		}
-		      	$rf.append("<div class='recipe' onclick='updateRecipeUrl(\""+data.links[i]+"\")'><p><a href="+data.links[i]
-		      							+">"+data.recipes[i]+"</a></p><br>"
-		      							+'<iframe src="//www.facebook.com/plugins/like.php?href='+data.links[i]+'&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>'
+		      	$rf.append("<div class='recipe' onclick='updateRecipeUrl(\""+data.recipes[i]+"\",\""+data.links[i]+"\")'><p>"+data.recipes[i]+"</p><br>"
 		      							+'</div>');
 	      	} 
 	      });
@@ -279,9 +285,7 @@ $re.html('<embed src='+url+' width="100%;" height="400px;"> </embed><div class="
 	      		if(data.links[i].indexOf("http") == -1) {
 		      		data.links[i] = "http://"+data.links[i];
 	      		}
-		      	$rf.append("<div class='recipe' onclick='updateRecipeUrl(\""+data.links[i]+"\")'><p><a href="+data.links[i]
-		      							+">"+data.recipes[i]+"</a></p><br>"
-		      							+'<div class="facebookframe"><iframe src="//www.facebook.com/plugins/like.php?href='+data.links[i]+'&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe></div>'
+		      	$rf.append("<div class='recipe' onclick='updateRecipeUrl(\""+data.recipes[i]+"\",\""+data.links[i]+"\")'><p>"+data.recipes[i]+"</p><br>"
 		      							+'</div>');
 	      	} 
 	      });
