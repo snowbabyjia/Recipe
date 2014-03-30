@@ -30,8 +30,8 @@ a.prev_button {
 }
 .recipe {
 	width: 90%;
-	height: 30px;
 	text-align: left;
+	height:40px;
 /* 	border: 1px solid #888888; */
 	margin-top: 10px;	
 	font-family: fantasy;
@@ -46,6 +46,8 @@ a.prev_button {
 .recipe p {
 	font-family: fantasy;
 	font-size:20 px;
+	margin-top: 3px;	
+	margin-bottom: 3px;	
 }
 .facebookframe {
 	width: 100%;
@@ -61,4 +63,8 @@ a.prev_button {
 	margin-top: 20px;
 	font-family: fantasy;
 	font-size: 27px;
+}
+
+.recipe_embed_class {
+	font-family: fantasy;
 }

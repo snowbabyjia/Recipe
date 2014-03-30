@@ -65,5 +65,6 @@ def recipe_clean():
 if __name__ == "__main__":
 	client = query.connect()
 	app.run(debug = True)
+	#app.run(host='0.0.0.0');
 	client.close()
 
